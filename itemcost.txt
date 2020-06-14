@@ -1,0 +1,22 @@
+Sub machine guns: 4500
+Automatic Rifles: 6000
+Semi automatic Rifles: 3800
+Shotguns: 3750
+Sniper rifles: 7000
+Light machine gun: 11000
+Pistols: 3500
+Large Caliber/AM Rifle: 14,000
+Secondary weapon/GL: 8000
+
+
+RPG: 25000
+MAWs: 30000
+Igla: 33000
+Stinger: 36000
+Lock on AT: 35000
+ammo: $5000
+
+
+Scopes: magnification * 1000
+NV: $8000
+IR: N/A
