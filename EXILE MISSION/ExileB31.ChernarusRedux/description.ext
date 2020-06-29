@@ -1,0 +1,119 @@
+#define true 1
+#define false 0
+// Required for the XM8, do not remove!
+#include "RscDefines.hpp"
+#include "custom\dual_arms\CfgSecondaryWeapons.hpp"
+#include "ExAdClient\ExAd.cpp"
+
+///////////////////////////////////////////////////////////////////////////////
+// Server Settings - Modify at will
+///////////////////////////////////////////////////////////////////////////////
+author = "Discord: Lukegotjellyfish#0473";
+onLoadName = "Chernarus Redux Exile";
+onLoadMission= "Military Vanguard Server";
+loadScreen = "exile_assets\texture\mod\logo.paa";
+disableChannels[] = {0, 2};
+OnLoadIntro = "";
+OnLoadIntroTime = false;
+OnLoadMissionTime = false;
+unsafeCVL = 1;  //Added in 1.95 to allow vehicle traders to spawn vics
+
+class Header
+{
+    gameType = Survive; // Do NOT change this
+    minPlayers = 1;
+    maxPlayers = 100;
+};
+
+///////////////////////////////////////////////////////////////////////////////
+// Exile Settings - Do not change these!
+// I changed them :D
+///////////////////////////////////////////////////////////////////////////////
+forceRotorLibSimulation = 0;
+skipLobby = 1;
+joinUnassigned = 1;
+respawn = "BASE";
+respawnDelay = 120;
+respawnDialog = 0;
+respawnOnStart = 0;
+respawnButton = 1;
+respawnTemplates[] = {"Exile"};
+corpseManagerMode = 0;
+corpseLimit = 20;
+corpseRemovalMinTime = 1800;
+corpseRemovalMaxTime = 3600;
+wreckManagerMode = 0;
+wreckLimit = 2;
+wreckRemovalMinTime = 60;
+wreckRemovalMaxTime = 360;
+scriptedPlayer = 1;
+disabledAI = 1;
+enableItemsDropping = 0;
+briefing = 0;
+debriefing = 0;
+allowFunctionsLog = 1;
+enableDebugConsole[] = {"76561198253546520"};
+//SteamID64:
+// - 76561198253546520 = @Lukegotjellyfish#0473
+//
+// (Allows users to access the Debug Console to execute commands/functions/scripts)
+allowFunctionsRecompile = 0;
+showSquadRadar = 0;
+showUAVFeed = 0;
+reviveDelay = 6;
+reviveForceRespawnDelay = 2;
+reviveBleedOutDelay = 240;
+
+showHUD[] =
+{
+    true,   // Scripted HUD (same as showHUD command)
+    true,   // Vehicle + soldier info
+    true,   // Vehicle radar
+    true,   // Vehicle compass
+    true,   // Tank direction indicator
+    false,  // Commanding menu
+    true,  // Group Bar
+    true,   // HUD Weapon Cursors
+    true   // Vehicle Panel (Required for GPS)
+};
+
+#include "config.cpp"
+
+class CfgFunctions
+{
+	#include "ExAdClient\CfgFunctions.cpp"
+};
+
+class CfgNetworkMessages
+{
+	#include "ExAdClient\CfgNetworkMessages.cpp"
+};
+
+class CfgHints
+{
+    #include "ExAdClient\CfgHints.cpp" // Only needed for ExAd Virtual Garage
+};
+
+class RscTitles
+{
+	#include "ExAdClient\RscTitles.cpp"
+};
+
+class CfgRemoteExec
+{
+    class Functions
+    {
+        mode = 1;
+        jip = 0;
+
+        class ExileServer_system_network_dispatchIncomingMessage { allowedTargets=2; };
+		class ExAdServer_fnc_clientRequest { allowedTargets=2; };
+		class BIS_fnc_debugConsoleExec { allowedTargets=2; };
+    };
+
+    class Commands
+    {
+        mode = 0;
+        jip = 0;
+    };
+};
