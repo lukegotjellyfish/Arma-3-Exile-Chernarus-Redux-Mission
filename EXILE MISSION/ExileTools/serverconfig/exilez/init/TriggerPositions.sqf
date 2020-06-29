@@ -47,9 +47,7 @@ MainCitiesOnly = [
 [2669.2,5117.12,300], //Zeleno South
 [2245.84,5247.34,300], //Zeleno West
 [1709.18,5089.06,300], //Zeleno Far West
-[3840.46,8853.16,300], //Vybor
-[8634,12360,350], //NEKO: Batarov
-[11378,14070,250] //NEKO: Chezniki
+[3840.46,8853.16,300] //Vybor
 ];                      
                         
 NoMansLand = [        
@@ -128,6 +126,8 @@ Cities = [
 [2527.03,6346.84,300], //Sosnovka
 [1688.03,3848.96,300], //Pavlovo
 [13358.8,12887,300], //Olsha
+[8634,12360,350], //NEKO: Batarov
+[11378,14070,250], //NEKO: Chezniki
 [8946,7916,120], //NEKO: Black forest amusement park
 [9169,7339,100],  //NEKO: Black forest hotel
 [12239,7280,200] //NEKO: Orovets

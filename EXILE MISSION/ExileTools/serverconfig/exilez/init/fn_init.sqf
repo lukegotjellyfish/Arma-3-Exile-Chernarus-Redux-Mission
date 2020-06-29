@@ -10,15 +10,15 @@
 //Global Settings
 ZombieSide                   = EAST;             // zombie team side east, west and Civilian can be used
 ZombieSideString             = "EAST";           // Same thing but in a string.
-CorpseDeleteDelay            = 300;              // delay before a zombie corpse is deleted.
+CorpseDeleteDelay            = 120;              // delay before a zombie corpse is deleted.
 Debug                        = false;             // debug messages.
 MinSpawnDistance             = 30;               // Closest distance from any player to spawn a zombie.
 MaxSpawnDistance             = 160;              // Max distance a zombie should spawn from a player.
 MaxDistance			         = 300;              // Max distance to players before delete.
-MaxTime                      = 30;               // Max time away from a player before delete.
-RemoveZfromTraders			= false;             // Will kill zombies when they get too close to a safezone. *(the check is done every MaxTime) will only work with zombies that are configured to avoid territories
-RemoveZfromTerritory         = false;             // Will kill zombies when they get too close to a flag. *(the check is done every MaxTime) will only work with zombies that are configured to avoid territories
-TriggerGroupScaling          = 0.25;             // 1 player = Groupsize, 2 player in trigger = Groupsize + (GroupSize * TriggerGroupScalling * number of player in the trigger) set at 0 to disable scaling
+MaxTime                      = 15;               // Max time away from a player before delete.
+RemoveZfromTraders			= true;             // Will kill zombies when they get too close to a safezone. *(the check is done every MaxTime) will only work with zombies that are configured to avoid territories
+RemoveZfromTerritory         = true;             // Will kill zombies when they get too close to a flag. *(the check is done every MaxTime) will only work with zombies that are configured to avoid territories
+TriggerGroupScaling          = 0;             // 1 player = Groupsize, 2 player in trigger = Groupsize + (GroupSize * TriggerGroupScalling * number of player in the trigger) set at 0 to disable scaling
 LightsOff                    = false;             // Kill all the light on map except the player lights.
 HarassingZombieAtNightOnly   = true;             // Spawn harassing zombies at night only.
 NightStartTime               = 18;               // Time at which it is night in hours
@@ -26,10 +26,10 @@ NightEndTime                 = 6;                // Time at which it is no longe
 
 //Explosive zombies          
 ExplosiveZombies             = true;             // randomly boobie trapped zombies exploding a few seconds after dying.
-ExplosiveZombiesRatio        = 2;                // percentage of explosive zombies
-ExplosiveZombieWarning       = "*clink*";// Message that will display a few seconds before the explosion of a zombie.
+ExplosiveZombiesRatio        = 5;               // percentage of explosive zombies
+ExplosiveZombieWarning       = "clink";         // Message that will display a few seconds before the explosion of a zombie.
 ExplosionDelay               = 3;                // self-explanatory
-ExplosiveType                = "Grenade" ;       // "mini_Grenade" for small almost non-lethal explision or "Grenade" Big and dangerous explosion.
+ExplosiveType                = "mini_Grenade" ;       // "mini_Grenade" for small almost non-lethal explision or "Grenade" Big and dangerous explosion.
 ExplosiveRespect             = 100;              // Bonus respect for Exploding zombies
 
 //Killing zombies settings
@@ -56,7 +56,7 @@ DistanceBonusDivider         = 10;               // Distance divided by that num
 
 //Zombie settings : SET TO -1 TO DISABLE AND USE DEFAULT FROM RYANZOMBIES
 _Ryanzombieshealth			           = 0.8; 	 // Health, *(initial damage level 0 is no damage 1 is dead)
-_Ryanzombieshealthdemon                = 0.5;	 // Health, *(initial damage level 0 is no damage 1 is dead)
+_Ryanzombieshealthdemon                = 0.8;	 // Health, *(initial damage level 0 is no damage 1 is dead)
 _Ryanzombiesattackspeed 	           = 2;	 // Attack speed, *(Time is seconds between attacks)
 _Ryanzombiesattackdistance 	           = 1;	     // Attack distance, *(in meters)
 _Ryanzombiesattackstrenth 	           = 0;	     // Attack strength *(Knockback strength) *(TYPO IS NORMAL)
@@ -80,7 +80,7 @@ _Ryanzombiescanthrowtankdistancedemon  = 10;     // Max throw distance for tanks
 
 _ryanzombiesdisablebleeding            = 1;      // 1 to DISABLE player bleeding on hit, -1 to ENABLE player bleeding on hit.
 _ryanzombiesstartinganim               = 1;      // Enable Spawning animation
-_ryanzombieslimit                      = 100;    // Player detection distance in meters
+_ryanzombieslimit                      = 70;    // Player detection distance in meters
 		
 _ryanzombiesdisablemoaning             = -1;     // No idle sound
 _ryanzombiesdisableaggressive          = -1;     // No aggressive sounds
@@ -135,9 +135,9 @@ HSet = [
 UseHorde                     = true;             // Use the horde spawner             
 
 HordeSet = [
-/* 0 Groups Size  */         15,                 // maximum number of zombies around a player
-/* 1 Min Frequency */        20,                 // min time in minutes between each new zombie horde.
-/* 2 Max Frequency */        60,                 // max time in minutes between each new zombie horde.
+/* 0 Groups Size  */         10,                 // maximum number of zombies around a player
+/* 1 Min Frequency */        50,                 // min time in minutes between each new zombie horde.
+/* 2 Max Frequency */        120,                 // max time in minutes between each new zombie horde.
 /* 3 Vest group */           Basic,              // Vest function defined in ZVest.sqf
 /* 4 Loot group */           DocAndAmmo,         // Loot function defined in ZLoot.sqf
 /* 5 Zombie group */         MediumMix,          // Group function defined in ZClasses.sqf
@@ -155,7 +155,7 @@ triggerLootbox = compile preprocessFile "exilez\init\zmissionloot.sqf";
 Trigger_1 = [				 //Cities
 /* 0  Use this trigger */    True,               // Self - explanatory
 /* 1  Trigger Positions */   Cities,             // The name of the array used to list all trigger position in the TriggerPositions.sqf file
-/* 2  Max Zombies */         10,                 // The maximum number of zombies for that trigger.
+/* 2  Max Zombies */         5,                 // The maximum number of zombies for that trigger.
 /* 3  Activation Delay */    15,                 // The delay before the activation of the trigger.
 /* 4  Spawn Delay */         15,                 // The delay between each zombie spawn right after the activation until the Max group size is reached.
 /* 5  Respawn Delay */       60,                 // The respawn delay after the max group size was reached
@@ -176,7 +176,7 @@ Trigger_1 = [				 //Cities
 Trigger_2 = [				 //Military
 /* 0  Use this trigger */    True,               
 /* 1  Trigger Positions */   Military,        
-/* 2  Max Zombies */         13,                 
+/* 2  Max Zombies */         6,                 
 /* 3  Activation Delay */    15,                 
 /* 4  Spawn Delay */         15,                 
 /* 5  Respawn Delay */       45,                 
@@ -197,7 +197,7 @@ Trigger_2 = [				 //Military
 Trigger_3 = [				 //No Buildings
 /* 0  Use this trigger */    True,               
 /* 1  Trigger Positions */   NoBuildings,        
-/* 2  Max Zombies */         10,                 
+/* 2  Max Zombies */         5,                 
 /* 3  Activation Delay */    15,                 
 /* 4  Spawn Delay */         15,                 
 /* 5  Respawn Delay */       60,                 
@@ -218,11 +218,11 @@ Trigger_3 = [				 //No Buildings
 Trigger_4 = [				 //No Man Land
 /* 0  Use this trigger */    True,               
 /* 1  Trigger Positions */   NoMansLand,       
-/* 2  Max Zombies */         10,                 
+/* 2  Max Zombies */         6,                 
 /* 3  Activation Delay */    15,                 
 /* 4  Spawn Delay */         15,                 
 /* 5  Respawn Delay */       30,                 
-/* 6  Show Trigger On Map */ false,               
+/* 6  Show Trigger On Map */ true,               
 /* 7  Marker Color */        "ColorRed",         
 /* 8  MarkerBrush */         "DiagGrid",            
 /* 9  Marker Alpha */        0.2,                
@@ -252,7 +252,7 @@ Trigger_5 = [				 //Mission Trigger
 /* 12 Loot group */          DocAndAmmo,         
 /* 13 Zombie group */        Hardcore,           
 /* 14 Avoid Territory */     false,              
-/* 15 Mission Radius */      1500,               
+/* 15 Mission Radius */      1000,               
 /* 16 Mission SQF */         triggerMission,    
 /* 17 Loot Box */            triggerLootbox     
 ];
