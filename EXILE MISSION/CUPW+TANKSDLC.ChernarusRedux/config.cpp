@@ -1784,7 +1784,6 @@ class CfgExileArsenal
 	#include "TRADERS\TANKDLC\ItemListTANKDLC.hpp"
 	//#include "TRADERS\TRYK\ItemListTRYK.hpp"
 	//#include "TRADERS\HLC\ItemListHLC.hpp"		//should use NIArms
-	#include "TRADERS\ADK\ItemListADK.hpp"
 };
 
 
@@ -2532,14 +2531,6 @@ class CfgInteractionMenus
 				action = "_this call ExileClient_object_construction_repair";
 			};
 
-			//added for ADK 
-			class Paint : ExileAbstractAction
-			{
-				title = "Paint";
-				condition = "call ADK_Client_Paint_Condition";
-				action = "_this call ADK_Client_Paint_Menu";
-			};
-
 			class GrindLock : ExileAbstractAction
 			{
 				title = "Grind Lock";
@@ -3146,7 +3137,6 @@ class CfgTraderCategories
 	#include "TRADERS\TANKDLC\TraderCategoriesTANKDLC.hpp"
 	//#include "TRADERS\TRYK\TraderCategoriesTRYK.hpp"
 	//#include "TRADERS\HLC\TraderCategoriesHLC.hpp"		//should use NIArms as that is newer and working version of HLC
-	#include "TRADERS\ADK\TraderCategoriesADK.hpp"
 };
 
 class CfgTraders
@@ -3195,13 +3185,6 @@ class CfgVehicleCustoms
 			{"Exile_Bike_QuadBike_Guerilla02",	150, "Guerilla 02",	{"\A3\Soft_F_Bootcamp\Quadbike_01\Data\Quadbike_01_INDP_Hunter_CO.paa","\A3\soft_f_gamma\Quadbike_01\Data\Quadbike_01_wheel_INDP_Hunter_CO.paa"}},
 			{"Exile_Bike_QuadBike_Black",		100, "Black",		{"\A3\Soft_F_Beta\Quadbike_01\Data\Quadbike_01_CIV_BLACK_CO.paa","\A3\Soft_F_Beta\Quadbike_01\Data\Quadbike_01_wheel_CIVBLACK_CO.paa"}},
 			{"Exile_Bike_QuadBike_Black",		100, "Hex",		{"\A3\Soft_f_Exp\Quadbike_01\data\Quadbike_01_ghex_CO.paa","\A3\Soft_f_Exp\Quadbike_01\data\Quadbike_01_wheel_ghex_CO.paa"}}
-			//ADK MOD
-			{"ADK_Quadbike_Bluelightning",		100, "ADK (Blue Lightning)",	{"\ADK\data\vehicles\Quadbike\Quadbike_blueflames.paa","\A3\Soft_f_Exp\Quadbike_01\data\Quadbike_01_wheel_ghex_CO.paa"};},
-			{"ADK_Quadbike_Blueflames",			100, "ADK (Blue Flames)",		{"\ADK\data\vehicles\Quadbike\Quadbike_bluelightning.paa","\A3\Soft_f_Exp\Quadbike_01\data\Quadbike_01_wheel_ghex_CO.paa"};},
-			{"ADK_Quadbike_Flames",				100, "ADK (Flames)",			{"\ADK\data\vehicles\Quadbike\Quadbike_flames.paa","\A3\Soft_f_Exp\Quadbike_01\data\Quadbike_01_wheel_ghex_CO.paa"};},
-			{"ADK_Quadbike_Rainbow",			100, "ADK (Rainbow)",			{"\ADK\data\vehicles\Quadbike\Quadbike_rainbow.paa","\A3\Soft_f_Exp\Quadbike_01\data\Quadbike_01_wheel_ghex_CO.paa"};},
-			{"ADK_Quadbike_Stars",				100, "ADK (Stars)",				{"\ADK\data\vehicles\Quadbike\Quadbike_stars.paa","\A3\Soft_f_Exp\Quadbike_01\data\Quadbike_01_wheel_ghex_CO.paa"};},
-			{"ADK_Quadbike_Zebra",				100, "ADK (Zebra)",				{"\ADK\data\vehicles\Quadbike\Quadbike_zebra.paa","\A3\Soft_f_Exp\Quadbike_01\data\Quadbike_01_wheel_ghex_CO.paa"};}
 		};
 	};
 
@@ -3254,8 +3237,7 @@ class CfgVehicleCustoms
 		skins[] =
 		{
 			{"Exile_Chopper_Hellcat_Green", 350, "Green", 	{"\A3\Air_F_EPB\Heli_Light_03\data\Heli_Light_03_base_CO.paa"}},
-			{"Exile_Chopper_Hellcat_FIA", 	500, "FIA", 	{"\A3\Air_F_EPB\Heli_Light_03\data\heli_light_03_base_indp_co.paa"}},
-			{"ADK_Hellcat_Black", 			500, "ADK (Black)", 	{"\ADK\data\vehicles\Hellcat\Hellcat_black.paa"};}
+			{"Exile_Chopper_Hellcat_FIA", 	500, "FIA", 	{"\A3\Air_F_EPB\Heli_Light_03\data\heli_light_03_base_indp_co.paa"}}
 		};
 	};
 
@@ -3302,16 +3284,6 @@ class CfgVehicleCustoms
 			{"Exile_Chopper_Hummingbird_Civillian_Vrana", 		350, "Vrana", 		{"\a3\air_f\Heli_Light_01\Data\Skins\heli_light_01_ext_vrana_co.paa"}},
 			{"Exile_Chopper_Hummingbird_Civillian_Wasp", 		350, "Wasp", 		{"\a3\air_f\Heli_Light_01\Data\Skins\heli_light_01_ext_wasp_co.paa"}},
 			{"Exile_Chopper_Hummingbird_Civillian_Wave", 		350, "Wave", 		{"\a3\air_f\Heli_Light_01\Data\Skins\heli_light_01_ext_wave_co.paa"}}
-			//ADK MOD	
-			{"ADK_HummingBird_Black", 		                    350, "ADK (Black)", 		{"\ADK\data\vehicles\HummingBird\Hummingbird_black.paa"};},
-			{"ADK_HummingBird_Black_Skull", 		            350, "ADK (Black Skull)", 	{"\ADK\data\vehicles\HummingBird\Hummingbird_black_skull.paa"};},
-			{"ADK_HummingBird_Camo", 		                    350, "ADK (Camo)", 			{"\ADK\data\vehicles\HummingBird\Hummingbird_camo.paa"};},
-			{"ADK_HummingBird_Camo_White", 		                350, "ADK (Camo White)",  	{"\ADK\data\vehicles\HummingBird\Hummingbird_camo_white.paa"};},
-			{"ADK_HummingBird_Desert", 		                    350, "ADK (Desert)", 		{"\ADK\data\vehicles\HummingBird\Hummingbird_desert.paa"};},
-			{"ADK_HummingBird_Desert_Skull", 		            350, "ADK (Desert Skull)",	{"\ADK\data\vehicles\HummingBird\Hummingbird_desert_skull.paa"};},
-			{"ADK_HummingBird_Forest", 		                    350, "ADK (Forest)", 		{"\ADK\data\vehicles\HummingBird\Hummingbird_forest.paa"};},
-			{"ADK_HummingBird_Grey", 		                    350, "ADK (Grey)", 			{"\ADK\data\vehicles\HummingBird\Hummingbird_grey.paa"};},
-			{"ADK_HummingBird_Weed", 		                    350, "ADK (Weed)", 			{"\ADK\data\vehicles\HummingBird\Hummingbird_weed.paa"};}
 		};
 	};
 
@@ -3337,13 +3309,6 @@ class CfgVehicleCustoms
 			{"Exile_Chopper_Orca_CSAT", 		350, "CSAT", 			{"\A3\Air_F\Heli_Light_02\Data\Heli_Light_02_ext_OPFOR_CO.paa"}},
 			{"Exile_Chopper_Orca_Black", 		350, "Black", 			{"\A3\Air_F\Heli_Light_02\Data\Heli_Light_02_ext_CO.paa"}},
 			{"Exile_Chopper_Orca_BlackCustom", 	350, "Black Custom", 	{"\A3\Air_F_Heli\Heli_Light_02\Data\Heli_Light_02_ext_OPFOR_V2_CO.paa"}}
-			//ADK MOD
-			{"ADK_Orca_Blue", 					350, "ADK (Blue)", 		{"\ADK\data\vehicles\Orca\Orca_blue.paa"};},
-			{"ADK_Orca_Grey", 					350, "ADK (Grey)", 		{"\ADK\data\vehicles\Orca\Orca_chromegrey.paa"};},
-			{"ADK_Orca_Neon_Green", 			350, "ADK (Neon Green)",{"\ADK\data\vehicles\Orca\Orca_neongreen.paa"};},
-			{"ADK_Orca_Red", 					350, "ADK (Red)", 		{"\ADK\data\vehicles\Orca\Orca_red.paa"};},
-			{"ADK_Orca_Green_Camo", 			350, "ADK (Camo)", 		{"\ADK\data\vehicles\Orca\Orca_greencamo.paa"};},
-			{"ADK_Orca_Forest_Camo", 			350, "ADK (Forest)", 	{"\ADK\data\vehicles\Orca\Orca_forest.paa"};}
 		};
 	};
 
@@ -3572,61 +3537,7 @@ class CfgVehicleCustoms
 			{"Exile_Car_Offroad_Repair_Guerilla12",		250, "Guerilla 12",	{"\A3\Soft_F_Bootcamp\Offroad_01\Data\offroad_01_ext_IG_12_CO.paa","\A3\Soft_F_Bootcamp\Offroad_01\Data\offroad_01_ext_IG_12_CO.paa"}}
 		};
 	};
-	///////////////////////////////////////////////////////////////////////////////
-	// BRDM2_HQ
-	///////////////////////////////////////////////////////////////////////////////	
-	class Exile_Car_BRDM2_HQ_Abstract
-	{
-		skins[] = 
-		{
-			
-			{"Exile_Car_BRDM2_HQ",			1000, "Exile BRDM2 HQ",			{"Exile_psycho_brdm\data\brdm2_01_co.paa"};},
-			//ADK MOD
-			{"ADK_Brdm_HQ_Black",			1000, "ADK (Black)",			{"\ADK\data\vehicles\Brdm\Brdm_black.paa"};},
-			{"ADK_Brdm_HQ_Black2",			1000, "ADK (Black2)",			{"\ADK\data\vehicles\Brdm\Brdm_black2.paa"};},
-			{"ADK_Brdm_HQ_Denim_Camo",		1000, "ADK (Denim Camo)",		{"\ADK\data\vehicles\Brdm\Brdm_denim_camo.paa"};},
-			{"ADK_Brdm_HQ_Forest",			1000, "ADK (Forest)",			{"\ADK\data\vehicles\Brdm\Brdm_forest.paa"};},
-			{"ADK_Brdm_HQ_Hexcamo",			1000, "ADK (Hex Camo)",			{"\ADK\data\vehicles\Brdm\Brdm_hexcamo.paa"};},
-			{"ADK_Brdm_HQ_Weed",			1000, "ADK (Weed)",				{"\ADK\data\vehicles\Brdm\Brdm_weed.paa"};}
-		};
-	};
-	///////////////////////////////////////////////////////////////////////////////
-	// Strider
-	///////////////////////////////////////////////////////////////////////////////
-	
-	class Exile_Car_Strider_Abstract
-	{
-		skins[] = 
-		{
-			
-			{"Exile_Car_Strider",			1000, "Exile Strider",			{"\A3\soft_f_beta\mrap_03\data\mrap_03_ext_co.paa"};},
-			//ADK MOD
-			{"ADK_Strider_Black",			1000, "ADK (Black)",	        {"\ADK\data\vehicles\Strider\Strider_black.paa"};},
-			{"ADK_Strider_Black2",			1000, "ADK (Black2)",	        {"\ADK\data\vehicles\Strider\Strider_black2.paa"};},
-			{"ADK_Strider_Dark_Grey",		1000, "ADK (Dark Grey)",	    {"\ADK\data\vehicles\Strider\Strider_dark_grey.paa"};},
-			{"ADK_Strider_Camo",			1000, "ADK (Camo)",	            {"\ADK\data\vehicles\Strider\Strider_camo.paa"};},
-			{"ADK_Strider_Desert",			1000, "ADK (Desert)",	        {"\ADK\data\vehicles\Strider\Strider_desert.paa"};},
-			{"ADK_Strider_Desert_Med",		1000, "ADK (Desert Med)",	    {"\ADK\data\vehicles\Strider\Strider_desert_med.paa"};},
-			{"ADK_Strider_Desert_Skull",	1000, "ADK (Desert Skull)",	    {"\ADK\data\vehicles\Strider\Strider_desert_skull.paa"};},
-			{"ADK_Strider_Forest_Camo",		1000, "ADK (Forest Camo)",	    {"\ADK\data\vehicles\Strider\Strider_forest_camo.paa"};},
-			{"ADK_Strider_GGS_Butt",		1000, "ADK (GGS Butt)",	        {"\ADK\data\vehicles\Strider\Strider_ggs_butt.paa"};},
-			{"ADK_Strider_GGS_HS",			1000, "ADK (GGS HS)",	        {"\ADK\data\vehicles\Strider\Strider_ggs_hs.paa"};},
-			{"ADK_Strider_Merc",			1000, "ADK (Merc)",	            {"\ADK\data\vehicles\Strider\Strider_merc.paa"};},
-			{"ADK_Strider_Navy_Grey",		1000, "ADK (Navy Grey)",	    {"\ADK\data\vehicles\Strider\Strider_navy_grey.paa"};},
-			{"ADK_Strider_Sand",			1000, "ADK (Sand)",	            {"\ADK\data\vehicles\Strider\Strider_sand.paa"};},
-			{"ADK_Strider_Soap",			1000, "ADK (Soap)",	            {"\ADK\data\vehicles\Strider\Strider_soap.paa"};},
-			{"ADK_Strider_Void",			1000, "ADK (Void)",	            {"\ADK\data\vehicles\Strider\Strider_void.paa"};},
-			{"ADK_Strider_Weed_Camo",		1000, "ADK (Weed)",	            {"\ADK\data\vehicles\Strider\Strider_weed_camo.paa"};},
-			{"ADK_Strider_White",			1000, "ADK (White)",	        {"\ADK\data\vehicles\Strider\Strider_white.paa"};},
-			{"ADK_Strider_Woodland",		1000, "ADK (Woodland)",	        {"\ADK\data\vehicles\Strider\Strider_woodland.paa"};},
-			{"ADK_Strider_Canada",			1000, "ADK (CA)",	            {"\ADK\data\vehicles\Strider\Flag\Strider_canada.paa"};},
-			{"ADK_Strider_England",			1000, "ADK (UK)",	            {"\ADK\data\vehicles\Strider\Flag\Strider_england.paa"};},
-			{"ADK_Strider_France",			1000, "ADK (FR)",	            {"\ADK\data\vehicles\Strider\Flag\Strider_france.paa"};},
-			{"ADK_Strider_Germany",			1000, "ADK (GR)",	            {"\ADK\data\vehicles\Strider\Flag\Strider_german.paa"};},
-			{"ADK_Strider_Poland",			1000, "ADK (PL)",	            {"\ADK\data\vehicles\Strider\Flag\Strider_poland.paa"};},
-			{"ADK_Strider_USA",			    1000, "ADK (USA)",	            {"\ADK\data\vehicles\Strider\Flag\Strider_usa.paa"};}
-		};
-	};
+
 	///////////////////////////////////////////////////////////////////////////////
 	// SUV
 	///////////////////////////////////////////////////////////////////////////////
@@ -3641,15 +3552,6 @@ class CfgVehicleCustoms
 			{"Exile_Car_SUV_Black", 	150, "Snow Camo",			{"exile_assets\texture\vehicle\Exile_SUV_Snow_co.paa"}},
 			{"Exile_Car_SUV_Black", 	150, "Leaf Camo",			{"exile_assets\texture\vehicle\Exile_SUV_Leaf_Light_co.paa"}},
 			{"Exile_Car_SUV_Black", 	150, "Leaf Camo (Dark)",	{"exile_assets\texture\vehicle\Exile_SUV_Leaf_Dark_co.paa"}}
-			//ADK MOD
-			{"ADK_SUV_Englang", 		150, "ADK (UK)",		 	{"\ADK\data\vehicles\SUV\Flag\SUV_england.paa"};},
-			{"ADK_SUV_France", 			150, "ADK (FR)",		 	{"\ADK\data\vehicles\SUV\Flag\SUV_france.paa"};},
-			{"ADK_SUV_Germany", 		150, "ADK (GR)",		 	{"\ADK\data\vehicles\SUV\Flag\SUV_german.paa"};},
-			{"ADK_SUV_Poland", 			150, "ADK (PL)",		 	{"\ADK\data\vehicles\SUV\Flag\SUV_poland.paa"};},
-			{"ADK_SUV_Camo", 			150, "ADK (Camo)",		 	{"\ADK\data\vehicles\SUV\SUV_camo.paa"};},
-			{"ADK_SUV_Dexter", 			150, "ADK (Dexter)",		{"\ADK\data\vehicles\SUV\SUV_dexter.paa"};},
-			{"ADK_SUV_Forest_Camo", 	150, "ADK (Forest Camo)",	{"\ADK\data\vehicles\SUV\SUV_forest_camo.paa"};},
-			{"ADK_SUV_Weed_camo", 		150, "ADK (Weed)",		    {"\ADK\data\vehicles\SUV\SUV_weed_camo.paa"};}
 		};
 	};
 
@@ -3822,54 +3724,9 @@ class CfgVehicleCustoms
 			{"Exile_Car_Hunter",		1000, "Exile White Edition",	{"exile_assets\texture\vehicle\Exile_Hunter_Snow_co.paa","exile_assets\texture\vehicle\Exile_Hunter_Snow_Back_co.paa"}},
 			{"Exile_Car_Hunter",		1000, "Exile Hex",				{"exile_assets\texture\vehicle\Exile_Hunter_Hex_co.paa","exile_assets\texture\vehicle\Exile_Hunter_Black_Back_co.paa"}},
 			{"Exile_Car_Hunter",		1000, "Exile Black",			{"exile_assets\texture\vehicle\Exile_Hunter_Black_co.paa","exile_assets\texture\vehicle\Exile_Hunter_Black_Back_co.paa"}}
-			//ADK MOD
-			{"ADK_Hunter_Black",		    1000, "ADK (Black)",		    {"\ADK\data\vehicles\Hunter\Hunter_black_base.paa","\ADK\data\vehicles\Hunter\Hunter_black_back.paa"};},
-			{"ADK_Hunter_Black2",		    1000, "ADK (Black2)",		    {"\ADK\data\vehicles\Hunter\Hunter_black2_base.paa","\ADK\data\vehicles\Hunter\Hunter_black_back.paa"};},
-			{"ADK_Hunter_Camo",		        1000, "ADK (Camo)",		        {"\ADK\data\vehicles\Hunter\Hunter_camo_base.paa","\ADK\data\vehicles\Hunter\Hunter_black_back.paa"};},
-			{"ADK_Hunter_Camo2",		    1000, "ADK (Camo2)",		    {"\ADK\data\vehicles\Hunter\Hunter_camo2_base.paa","\ADK\data\vehicles\Hunter\Hunter_black_back.paa"};},
-			{"ADK_Hunter_Cow",		        1000, "ADK (Cow)",		        {"\ADK\data\vehicles\Hunter\Hunter_cow_base.paa","\ADK\data\vehicles\Hunter\Hunter_cow_back.paa"};},
-			{"ADK_Hunter_Dark_Green",		1000, "ADK (Dark Green)",		{"\ADK\data\vehicles\Hunter\Hunter_dark_green_base.paa","\ADK\data\vehicles\Hunter\Hunter_black_back.paa"};},
-			{"ADK_Hunter_Denim_Camo",		1000, "ADK (Denim Camo)",		{"\ADK\data\vehicles\Hunter\Hunter_denim_camo_base.paa","\ADK\data\vehicles\Hunter\Hunter_black_back.paa"};},
-			{"ADK_Hunter_Desert",		    1000, "ADK (Desert)",		    {"\ADK\data\vehicles\Hunter\Hunter_desert_base.paa","\ADK\data\vehicles\Hunter\Hunter_desert_back.paa"};},
-			{"ADK_Hunter_Desert_Med",		1000, "ADK (Desert Med)",		{"\ADK\data\vehicles\Hunter\Hunter_desert_med_base.paa","\ADK\data\vehicles\Hunter\Hunter_desert_med_back.paa"};},
-			{"ADK_Hunter_Desert_Skull",		1000, "ADK (Desert Skull)",		{"\ADK\data\vehicles\Hunter\Hunter_desert_skull_base.paa","\ADK\data\vehicles\Hunter\Hunter_desert_back.paa"};},
-			{"ADK_Hunter_GGS_Butt",		    1000, "ADK (GGS Butt)",		    {"\ADK\data\vehicles\Hunter\Hunter_GGS_butt_base.paa","\ADK\data\vehicles\Hunter\Hunter_GGS_butt_back.paa"};},
-			{"ADK_Hunter_Green",		    1000, "ADK (Green)",		    {"\ADK\data\vehicles\Hunter\Hunter_green_base.paa","\ADK\data\vehicles\Hunter\Hunter_black_back.paa"};},
-			{"ADK_Hunter_Pink",		        1000, "ADK (Pink)",		        {"\ADK\data\vehicles\Hunter\Hunter_pink_base.paa","\ADK\data\vehicles\Hunter\Hunter_pink_back.paa"};},
-			{"ADK_Hunter_Sand",		        1000, "ADK (Sand)",		        {"\ADK\data\vehicles\Hunter\Hunter_sand_base.paa","\ADK\data\vehicles\Hunter\Hunter_desert_back.paa"};},
-			{"ADK_Hunter_Sand_Blast",		1000, "ADK (Sand Blast)",		{"\ADK\data\vehicles\Hunter\Hunter_sand_blast_base.paa","\ADK\data\vehicles\Hunter\Hunter_desert_back.paa"};},
-			{"ADK_Hunter_Sand_Skull",		1000, "ADK (Sand Skull)",		{"\ADK\data\vehicles\Hunter\Hunter_sand_skull_base.paa","\ADK\data\vehicles\Hunter\Hunter_desert_back.paa"};},
-			{"ADK_Hunter_UN",		        1000, "ADK (UN)",		        {"\ADK\data\vehicles\Hunter\Hunter_UN_base.paa","\ADK\data\vehicles\Hunter\Hunter_UN_back.paa"};}
 		};
 	};
-	///////////////////////////////////////////////////////////////////////////////
-	// HUNTER AR
-	///////////////////////////////////////////////////////////////////////////////
-	class ADK_Car_Hunter_Abstract
-	{
-		skins[] = 
-		{
-			//ADK MOD
-			{"ADK_Hunter_AR",					1000, "ADK AR",						{"exile_assets\texture\vehicle\Exile_Hunter_Black_co.paa","exile_assets\texture\vehicle\Exile_Hunter_Black_Back_co.paa"};},
-			{"ADK_Hunter_AR_Black",		    	1000, "ADK AR (Black)",		    	{"\ADK\data\vehicles\Hunter\Hunter_black_base.paa","\ADK\data\vehicles\Hunter\Hunter_black_back.paa"};},
-			{"ADK_Hunter_AR_Black2",		    1000, "ADK AR (Black2)",		    {"\ADK\data\vehicles\Hunter\Hunter_black2_base.paa","\ADK\data\vehicles\Hunter\Hunter_black_back.paa"};},
-			{"ADK_Hunter_AR_Camo",		        1000, "ADK AR (Camo)",		        {"\ADK\data\vehicles\Hunter\Hunter_camo_base.paa","\ADK\data\vehicles\Hunter\Hunter_black_back.paa"};},
-			{"ADK_Hunter_AR_Camo2",		    	1000, "ADK AR (Camo2)",		   		{"\ADK\data\vehicles\Hunter\Hunter_camo2_base.paa","\ADK\data\vehicles\Hunter\Hunter_black_back.paa"};},
-			{"ADK_Hunter_AR_Cow",		        1000, "ADK AR (Cow)",		        {"\ADK\data\vehicles\Hunter\Hunter_cow_base.paa","\ADK\data\vehicles\Hunter\Hunter_cow_back.paa"};},
-			{"ADK_Hunter_AR_Dark_Green",		1000, "ADK AR (Dark Green)",		{"\ADK\data\vehicles\Hunter\Hunter_dark_green_base.paa","\ADK\data\vehicles\Hunter\Hunter_black_back.paa"};},
-			{"ADK_Hunter_AR_Denim_Camo",		1000, "ADK AR (Denim Camo)",		{"\ADK\data\vehicles\Hunter\Hunter_denim_camo_base.paa","\ADK\data\vehicles\Hunter\Hunter_black_back.paa"};},
-			{"ADK_Hunter_AR_Desert",		    1000, "ADK AR (Desert)",		    {"\ADK\data\vehicles\Hunter\Hunter_desert_base.paa","\ADK\data\vehicles\Hunter\Hunter_desert_back.paa"};},
-			{"ADK_Hunter_AR_Desert_Med",		1000, "ADK AR (Desert Med)",		{"\ADK\data\vehicles\Hunter\Hunter_desert_med_base.paa","\ADK\data\vehicles\Hunter\Hunter_desert_med_back.paa"};},
-			{"ADK_Hunter_AR_Desert_Skull",		1000, "ADK AR (Desert Skull)",		{"\ADK\data\vehicles\Hunter\Hunter_desert_skull_base.paa","\ADK\data\vehicles\Hunter\Hunter_desert_back.paa"};},
-			{"ADK_Hunter_AR_GGS_Butt",		    1000, "ADK AR (GGS Butt)",		    {"\ADK\data\vehicles\Hunter\Hunter_GGS_butt_base.paa","\ADK\data\vehicles\Hunter\Hunter_GGS_butt_back.paa"};},
-			{"ADK_Hunter_AR_Green",		    	1000, "ADK AR (Green)",		    	{"\ADK\data\vehicles\Hunter\Hunter_green_base.paa","\ADK\data\vehicles\Hunter\Hunter_black_back.paa"};},
-			{"ADK_Hunter_AR_Pink",		        1000, "ADK AR (Pink)",		        {"\ADK\data\vehicles\Hunter\Hunter_pink_base.paa","\ADK\data\vehicles\Hunter\Hunter_pink_back.paa"};},
-			{"ADK_Hunter_AR_Sand",		        1000, "ADK AR (Sand)",		        {"\ADK\data\vehicles\Hunter\Hunter_sand_base.paa","\ADK\data\vehicles\Hunter\Hunter_desert_back.paa"};},
-			{"ADK_Hunter_AR_Sand_Blast",		1000, "ADK AR (Sand Blast)",		{"\ADK\data\vehicles\Hunter\Hunter_sand_blast_base.paa","\ADK\data\vehicles\Hunter\Hunter_desert_back.paa"};},
-			{"ADK_Hunter_AR_Sand_Skull",		1000, "ADK AR (Sand Skull)",		{"\ADK\data\vehicles\Hunter\Hunter_sand_skull_base.paa","\ADK\data\vehicles\Hunter\Hunter_desert_back.paa"};},
-			{"ADK_Hunter_AR_UN",		        1000, "ADK AR (UN)",		        {"\ADK\data\vehicles\Hunter\Hunter_UN_base.paa","\ADK\data\vehicles\Hunter\Hunter_UN_back.paa"};}
-		};
-	};
+
 	///////////////////////////////////////////////////////////////////////////////
 	// IFRIT
 	///////////////////////////////////////////////////////////////////////////////
@@ -3879,9 +3736,6 @@ class CfgVehicleCustoms
 		{
 
 			{"Exile_Car_Ifrit",		1000, "Green Hex",	{"\A3\Soft_F_Exp\MRAP_02\data\MRAP_02_ext_01_ghex_CO.paa","\A3\Soft_F_Exp\MRAP_02\data\MRAP_02_ext_02_ghex_CO.paa","\A3\Data_F_Exp\Vehicles\Turret_ghex_CO.paa"}}
-			//ADK Mod
-			{"ADK_Ifrit_Black",			1000, "ADK (Black)",		{"\ADK\data\vehicles\Ifrit\Ifrit_black_base.paa","\ADK\data\vehicles\Ifrit\Ifrit_black_back.paa","\A3\Data_F_Exp\Vehicles\Turret_ghex_CO.paa"};},
-			{"ADK_Ifrit_Forest",		1000, "ADK (Forest)",		{"\ADK\data\vehicles\Ifrit\Ifrit_forest_base.paa","\ADK\data\vehicles\Ifrit\Ifrit_forest_back.paa","\A3\Data_F_Exp\Vehicles\Turret_ghex_CO.paa"};}
 		};
 	};
 
@@ -3895,12 +3749,6 @@ class CfgVehicleCustoms
 
 			{"Exile_Car_HMMWV_M2_Green",		1000, "Green",	{"Exile_psycho_hmmw\data\hmmwv_body_co.paa"}},
 			{"Exile_Car_HMMWV_M2_Desert",		1000, "Desert",	{"Exile_psycho_hmmw\data\des\hmmwv_body_co.paa"}}
-			//ADK MOD
-			{"ADK_Hmmwv_M2_Black", 				1000, "ADK (Black)",		{"\ADK\data\vehicles\Hmmwv\Hmmwv_black.paa"};},
-			{"ADK_Hmmwv_M2_Camo", 				1000, "ADK (Camo)",			{"\ADK\data\vehicles\Hmmwv\Hmmwv_camo.paa"};},
-			{"ADK_Hmmwv_M2_Camo_Tree", 			1000, "ADK (Camo Tree)",	{"\ADK\data\vehicles\Hmmwv\Hmmwv_camo_tree.paa"};},
-			{"ADK_Hmmwv_M2_Hex_Camo", 			1000, "ADK (Hex Camo)",		{"\ADK\data\vehicles\Hmmwv\Hmmwv_hexcamo.paa"};},
-			{"ADK_Hmmwv_M2_Orange_Camo", 		1000, "ADK (Orange Camo)",	{"\ADK\data\vehicles\Hmmwv\Hmmwv_orange_camo.paa"};}
 		};
 	};
 
@@ -3911,12 +3759,6 @@ class CfgVehicleCustoms
 
 			{"Exile_Car_HMMWV_M134_Green",		1000, "Green",	{"Exile_psycho_hmmw\data\hmmwv_body_co.paa"}},
 			{"Exile_Car_HMMWV_M134_Desert",		1000, "Desert",	{"Exile_psycho_hmmw\data\des\hmmwv_body_co.paa"}}
-			//ADK MOD
-			{"ADK_Hmmwv_M134_Black", 			1000, "ADK (Black)",		{"\ADK\data\vehicles\Hmmwv\Hmmwv_black.paa"};},
-			{"ADK_Hmmwv_M134_Camo", 			1000, "ADK (Camo)",			{"\ADK\data\vehicles\Hmmwv\Hmmwv_camo.paa"};},
-			{"ADK_Hmmwv_M134_Camo_Tree", 		1000, "ADK (Camo Tree)",	{"\ADK\data\vehicles\Hmmwv\Hmmwv_camo_tree.paa"};},
-			{"ADK_Hmmwv_M134_Hex_Camo", 		1000, "ADK (Hex Camo)",		{"\ADK\data\vehicles\Hmmwv\Hmmwv_hexcamo.paa"};},
-			{"ADK_Hmmwv_M134_Orange_Camo", 		1000, "ADK (Orange Camo)",	{"\ADK\data\vehicles\Hmmwv\Hmmwv_orange_camo.paa"};}
 		};
 	};
 
@@ -3927,12 +3769,6 @@ class CfgVehicleCustoms
 
 			{"Exile_Car_HMMWV_MEV_Green",		1000, "Green",	{"Exile_psycho_hmmw\data\hmmwv_body_cm.paa"}},
 			{"Exile_Car_HMMWV_MEV_Desert",		1000, "Desert",	{"Exile_psycho_hmmw\data\des\hmmwv_body_cm.paa"}}
-			//ADK MOD
-			{"ADK_Hmmwv_Mev_Black", 			1000, "ADK (Black)",		{"\ADK\data\vehicles\Hmmwv\Hmmwv_black.paa"};},
-			{"ADK_Hmmwv_Mev_Camo", 				1000, "ADK (Camo)",			{"\ADK\data\vehicles\Hmmwv\Hmmwv_camo.paa"};},
-			{"ADK_Hmmwv_Mev_Camo_Tree", 		1000, "ADK (Camo Tree)",	{"\ADK\data\vehicles\Hmmwv\Hmmwv_camo_tree.paa"};},
-			{"ADK_Hmmwv_Mev_Hex_Camo", 			1000, "ADK (Hex Camo)",		{"\ADK\data\vehicles\Hmmwv\Hmmwv_hexcamo.paa"};},
-			{"ADK_Hmmwv_Mev_Orange_Camo", 		1000, "ADK (Orange Camo)",	{"\ADK\data\vehicles\Hmmwv\Hmmwv_orange_camo.paa"};}
 		};
 	};
 

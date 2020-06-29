@@ -1,0 +1,1 @@
+ExileClientXM8IsPowerOn = true;
