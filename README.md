@@ -3,7 +3,7 @@
  - https://github.com/ThomasTKO/Exile.ChernarusRedux
 
 |               Addon Name               |                               Link                               |   Filesize   |
-|:--------------------------------------:|:----------------------------------------------------------------:|:------------:|
+|:--------------------------------------:|:----------------------------------------------------------------:|:------------ |
 |           ADK Texture Pack 1           |  http://steamcommunity.com/sharedfiles/filedetails/?id=731499177 |  448.710 MB  |
 |              CDAH Mod Pack             |  http://steamcommunity.com/sharedfiles/filedetails/?id=699728548 |   9.586 MB   |
 |            Extended_Base_Mod           |  http://steamcommunity.com/sharedfiles/filedetails/?id=647753401 |  299.802 MB  |
