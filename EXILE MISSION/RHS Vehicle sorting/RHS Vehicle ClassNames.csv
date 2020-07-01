@@ -1,0 +1,900 @@
+rhs_2s1_tv,2S1
+rhs_2s1_vmf,2S1
+rhsgref_cdf_2s1,2S1
+rhsgref_cdf_b_2s1,2S1
+rhsgref_ins_2s1,2S1
+rhsgref_ins_g_2s1,2S1
+rhs_sprut_vdv,2S25
+rhs_2s3_tv,2S3M1
+rhs_9k79,9P129-1M (9M79-1-F)
+rhs_9k79_K,9P129-1M (9M79-1-K)
+rhs_9k79_B,9P129-1M (9M79B)
+RHS_A10,A-10A
+RHSGREF_A29B_HIDF,A-29 Super Tucano
+RHS_AH1Z,AH-1Z
+RHS_AH1Z_wd,AH-1Z
+RHS_AH64D,AH-64D
+RHS_AH64D_wd,AH-64D
+RHS_AH64DGrey,AH-64D (OIF Grey)
+RHS_MELB_AH6M,AH-6M Little Bird
+RHS_AN2,Antonov An-2
+RHS_AN2_B,Antonov An-2
+rhsgref_hidf_assault_boat,Assault Boat
+RHS_BM21_MSV_01,BM-21
+RHS_BM21_VDV_01,BM-21
+RHS_BM21_VMF_01,BM-21
+RHS_BM21_VV_01,BM-21
+rhsgref_cdf_b_reg_BM21,BM-21
+rhsgref_cdf_reg_BM21,BM-21
+rhsgref_ins_BM21,BM-21
+rhsgref_ins_g_BM21,BM-21
+rhs_bmd1,BMD-1
+rhsgref_cdf_b_bmd1,BMD-1
+rhsgref_cdf_bmd1,BMD-1
+rhsgref_ins_bmd1,BMD-1
+rhsgref_ins_g_bmd1,BMD-1
+rhs_bmd1k,BMD-1K
+rhsgref_cdf_b_bmd1k,BMD-1K
+rhsgref_cdf_bmd1k,BMD-1K
+rhs_bmd1p,BMD-1P
+rhsgref_cdf_b_bmd1p,BMD-1P
+rhsgref_cdf_bmd1p,BMD-1P
+rhsgref_ins_bmd1p,BMD-1P
+rhsgref_ins_g_bmd1p,BMD-1P
+rhs_bmd1pk,BMD-1PK
+rhsgref_cdf_b_bmd1pk,BMD-1PK
+rhsgref_cdf_bmd1pk,BMD-1PK
+rhs_bmd1r,BMD-1R
+rhs_bmd2,BMD-2
+rhsgref_cdf_b_bmd2,BMD-2
+rhsgref_cdf_bmd2,BMD-2
+rhsgref_ins_bmd2,BMD-2
+rhsgref_ins_g_bmd2,BMD-2
+rhs_bmd2k,BMD-2K
+rhsgref_cdf_b_bmd2k,BMD-2K
+rhsgref_cdf_bmd2k,BMD-2K
+rhs_bmd2m,BMD-2M
+rhs_bmd4_vdv,BMD-4
+rhs_bmd4m_vdv,BMD-4M
+rhs_bmd4ma_vdv,BMD-4M (A)
+rhs_bmk_t,BMK Tug
+rhs_bmp1_msv,BMP-1
+rhs_bmp1_tv,BMP-1
+rhs_bmp1_vdv,BMP-1
+rhs_bmp1_vmf,BMP-1
+rhs_bmp1_vv,BMP-1
+rhsgref_cdf_b_bmp1,BMP-1
+rhsgref_cdf_bmp1,BMP-1
+rhsgref_ins_bmp1,BMP-1
+rhsgref_ins_g_bmp1,BMP-1
+rhs_bmp1d_msv,BMP-1D
+rhs_bmp1d_tv,BMP-1D
+rhs_bmp1d_vdv,BMP-1D
+rhs_bmp1d_vmf,BMP-1D
+rhs_bmp1d_vv,BMP-1D
+rhsgref_cdf_b_bmp1d,BMP-1D
+rhsgref_cdf_bmp1d,BMP-1D
+rhsgref_ins_bmp1d,BMP-1D
+rhsgref_ins_g_bmp1d,BMP-1D
+rhs_bmp1k_msv,BMP-1K
+rhs_bmp1k_tv,BMP-1K
+rhs_bmp1k_vdv,BMP-1K
+rhs_bmp1k_vmf,BMP-1K
+rhs_bmp1k_vv,BMP-1K
+rhsgref_cdf_b_bmp1k,BMP-1K
+rhsgref_cdf_bmp1k,BMP-1K
+rhsgref_ins_bmp1k,BMP-1K
+rhsgref_ins_g_bmp1k,BMP-1K
+rhs_bmp1p_msv,BMP-1P
+rhs_bmp1p_tv,BMP-1P
+rhs_bmp1p_vdv,BMP-1P
+rhs_bmp1p_vmf,BMP-1P
+rhs_bmp1p_vv,BMP-1P
+rhsgref_cdf_b_bmp1p,BMP-1P
+rhsgref_cdf_bmp1p,BMP-1P
+rhsgref_ins_bmp1p,BMP-1P
+rhsgref_ins_g_bmp1p,BMP-1P
+rhs_bmp2e_msv,BMP-2 (obr. 1980g.)
+rhs_bmp2e_tv,BMP-2 (obr. 1980g.)
+rhs_bmp2e_vdv,BMP-2 (obr. 1980g.)
+rhs_bmp2e_vmf,BMP-2 (obr. 1980g.)
+rhs_bmp2e_vv,BMP-2 (obr. 1980g.)
+rhsgref_cdf_b_bmp2e,BMP-2 (obr. 1980g.)
+rhsgref_cdf_bmp2e,BMP-2 (obr. 1980g.)
+rhsgref_ins_bmp2e,BMP-2 (obr. 1980g.)
+rhsgref_ins_g_bmp2e,BMP-2 (obr. 1980g.)
+rhs_bmp2_msv,BMP-2 (obr. 1986g.)
+rhs_bmp2_tv,BMP-2 (obr. 1986g.)
+rhs_bmp2_vdv,BMP-2 (obr. 1986g.)
+rhs_bmp2_vmf,BMP-2 (obr. 1986g.)
+rhs_bmp2_vv,BMP-2 (obr. 1986g.)
+rhsgref_cdf_b_bmp2,BMP-2 (obr. 1986g.)
+rhsgref_cdf_bmp2,BMP-2 (obr. 1986g.)
+rhsgref_ins_bmp2,BMP-2 (obr. 1986g.)
+rhsgref_ins_g_bmp2,BMP-2 (obr. 1986g.)
+rhs_bmp2d_msv,BMP-2D
+rhs_bmp2d_tv,BMP-2D
+rhs_bmp2d_vdv,BMP-2D
+rhs_bmp2d_vmf,BMP-2D
+rhs_bmp2d_vv,BMP-2D
+rhsgref_cdf_b_bmp2d,BMP-2D
+rhsgref_cdf_bmp2d,BMP-2D
+rhsgref_ins_bmp2d,BMP-2D
+rhsgref_ins_g_bmp2d,BMP-2D
+rhs_bmp2k_msv,BMP-2K
+rhs_bmp2k_tv,BMP-2K
+rhs_bmp2k_vdv,BMP-2K
+rhs_bmp2k_vmf,BMP-2K
+rhs_bmp2k_vv,BMP-2K
+rhsgref_cdf_b_bmp2k,BMP-2K
+rhsgref_cdf_bmp2k,BMP-2K
+rhsgref_ins_bmp2k,BMP-2K
+rhsgref_ins_g_bmp2k,BMP-2K
+rhs_bmp3_msv,BMP-3 (early)
+rhs_bmp3_late_msv,BMP-3 (late)
+rhs_bmp3m_msv,BMP-3 (Vesna-K)
+rhs_bmp3mera_msv,BMP-3 (Vesna-K/A)
+rhsgref_BRDM2,BRDM-2
+rhsgref_BRDM2_b,BRDM-2
+rhsgref_BRDM2_ins,BRDM-2
+rhsgref_BRDM2_ins_g,BRDM-2
+rhsgref_BRDM2_msv,BRDM-2
+rhsgref_BRDM2_vdv,BRDM-2
+rhsgref_BRDM2_vmf,BRDM-2
+rhsgref_BRDM2_ATGM,BRDM-2 (9P148)
+rhsgref_BRDM2_ATGM_b,BRDM-2 (9P148)
+rhsgref_BRDM2_ATGM_ins,BRDM-2 (9P148)
+rhsgref_BRDM2_ATGM_ins_g,BRDM-2 (9P148)
+rhsgref_BRDM2_ATGM_msv,BRDM-2 (9P148)
+rhsgref_BRDM2_ATGM_vdv,BRDM-2 (9P148)
+rhsgref_BRDM2_ATGM_vmf,BRDM-2 (9P148)
+rhsgref_BRDM2UM,BRDM-2UM
+rhsgref_BRDM2UM_b,BRDM-2UM
+rhsgref_BRDM2UM_ins,BRDM-2UM
+rhsgref_BRDM2UM_ins_g,BRDM-2UM
+rhsgref_BRDM2UM_msv,BRDM-2UM
+rhsgref_BRDM2UM_vdv,BRDM-2UM
+rhsgref_BRDM2UM_vmf,BRDM-2UM
+rhsgref_BRDM2_HQ,BRDM-2UM (Armed)
+rhsgref_BRDM2_HQ_b,BRDM-2UM (Armed)
+rhsgref_BRDM2_HQ_ins,BRDM-2UM (Armed)
+rhsgref_BRDM2_HQ_ins_g,BRDM-2UM (Armed)
+rhsgref_BRDM2_HQ_msv,BRDM-2UM (Armed)
+rhsgref_BRDM2_HQ_vdv,BRDM-2UM (Armed)
+rhsgref_BRDM2_HQ_vmf,BRDM-2UM (Armed)
+rhs_brm1k_msv,BRM-1K
+rhs_brm1k_tv,BRM-1K
+rhs_brm1k_vdv,BRM-1K
+rhs_brm1k_vmf,BRM-1K
+rhs_brm1k_vv,BRM-1K
+rhs_btr60_msv,BTR-60PB
+rhs_btr60_vdv,BTR-60PB
+rhs_btr60_vmf,BTR-60PB
+rhs_btr60_vv,BTR-60PB
+rhsgref_cdf_b_btr60,BTR-60PB
+rhsgref_cdf_btr60,BTR-60PB
+rhsgref_ins_btr60,BTR-60PB
+rhsgref_ins_g_btr60,BTR-60PB
+rhsgref_tla_btr60,BTR-60PB
+rhs_btr70_msv,BTR-70
+rhs_btr70_vdv,BTR-70
+rhs_btr70_vmf,BTR-70
+rhs_btr70_vv,BTR-70
+rhsgref_cdf_b_btr70,BTR-70
+rhsgref_cdf_btr70,BTR-70
+rhsgref_ins_btr70,BTR-70
+rhsgref_ins_g_btr70,BTR-70
+rhsgref_nat_btr70,BTR-70
+rhsgref_un_btr70,BTR-70
+rhs_btr80_msv,BTR-80
+rhs_btr80_vdv,BTR-80
+rhs_btr80_vmf,BTR-80
+rhs_btr80_vv,BTR-80
+rhs_btr80a_msv,BTR-80A
+rhs_btr80a_vdv,BTR-80A
+rhs_btr80a_vmf,BTR-80A
+rhs_btr80a_vv,BTR-80A
+RHS_C130J,C-130J
+RHS_C130J_Cargo,C-130J (Cargo)
+rhsusf_CGRCAT1A2_usmc_d,CGR CAT1A2
+rhsusf_CGRCAT1A2_usmc_wd,CGR CAT1A2
+rhsusf_CGRCAT1A2_M2_usmc_d,CGR CAT1A2 (M2)
+rhsusf_CGRCAT1A2_M2_usmc_wd,CGR CAT1A2 (M2)
+rhsusf_CGRCAT1A2_Mk19_usmc_d,CGR CAT1A2 (Mk19)
+rhsusf_CGRCAT1A2_Mk19_usmc_wd,CGR CAT1A2 (Mk19)
+RHS_CH_47F,CH-47F
+RHS_CH_47F_10,CH-47F
+RHS_CH_47F_10_cargo,CH-47F (Cargo)
+RHS_CH_47F_cargo,CH-47F (Cargo)
+RHS_CH_47F_light,CH-47F (D)
+rhsusf_CH53E_USMC,CH-53E
+rhsusf_CH53E_USMC_D,CH-53E
+rhsusf_CH53e_USMC_cargo,CH-53E (Cargo)
+rhsusf_CH53e_USMC_D_cargo,CH-53E (Cargo)
+rhsusf_CH53E_USMC_GAU21,CH-53E (GAU-21)
+rhsusf_CH53E_USMC_GAU21_D,CH-53E (GAU-21)
+rhsusf_f22,F-22A
+rhsgref_nat_van_fuel,Fuel Truck
+rhs_tigr_msv,GAZ-233011
+rhs_tigr_vdv,GAZ-233011
+rhs_tigr_vmf,GAZ-233011
+rhs_tigr_vv,GAZ-233011
+rhs_tigr_3camo_msv,GAZ-233011 (Camo)
+rhs_tigr_3camo_vdv,GAZ-233011 (Camo)
+rhs_tigr_3camo_vmf,GAZ-233011 (Camo)
+rhs_tigr_3camo_vv,GAZ-233011 (Camo)
+rhs_tigr_sts_msv,GAZ-233014
+rhs_tigr_sts_vdv,GAZ-233014
+rhs_tigr_sts_vmf,GAZ-233014
+rhs_tigr_sts_vv,GAZ-233014
+rhs_tigr_sts_3camo_msv,GAZ-233014 (Camo)
+rhs_tigr_sts_3camo_vdv,GAZ-233014 (Camo)
+rhs_tigr_sts_3camo_vmf,GAZ-233014 (Camo)
+rhs_tigr_sts_3camo_vv,GAZ-233014 (Camo)
+rhs_tigr_m_msv,GAZ-233114
+rhs_tigr_m_vdv,GAZ-233114
+rhs_tigr_m_vmf,GAZ-233114
+rhs_tigr_m_vv,GAZ-233114
+rhs_tigr_m_3camo_msv,GAZ-233114 (Camo)
+rhs_tigr_m_3camo_vdv,GAZ-233114 (Camo)
+rhs_tigr_m_3camo_vmf,GAZ-233114 (Camo)
+rhs_tigr_m_3camo_vv,GAZ-233114 (Camo)
+rhs_gaz66_msv,GAZ-66
+rhs_gaz66_vdv,GAZ-66
+rhs_gaz66_vmf,GAZ-66
+rhs_gaz66_vv,GAZ-66
+rhsgref_cdf_b_gaz66,GAZ-66
+rhsgref_cdf_gaz66,GAZ-66
+rhsgref_ins_g_gaz66,GAZ-66
+rhsgref_ins_gaz66,GAZ-66
+rhs_gaz66_ammo_msv,GAZ-66 (Ammo)
+rhs_gaz66_ammo_vdv,GAZ-66 (Ammo)
+rhs_gaz66_ammo_vmf,GAZ-66 (Ammo)
+rhs_gaz66_ammo_vv,GAZ-66 (Ammo)
+rhsgref_cdf_b_gaz66_ammo,GAZ-66 (Ammo)
+rhsgref_cdf_gaz66_ammo,GAZ-66 (Ammo)
+rhsgref_ins_g_gaz66_ammo,GAZ-66 (Ammo)
+rhsgref_ins_gaz66_ammo,GAZ-66 (Ammo)
+rhs_gaz66_flat_msv,GAZ-66 (Flatbed)
+rhs_gaz66_flat_vdv,GAZ-66 (Flatbed)
+rhs_gaz66_flat_vmf,GAZ-66 (Flatbed)
+rhs_gaz66_flat_vv,GAZ-66 (Flatbed)
+rhsgref_cdf_b_gaz66_flat,GAZ-66 (Flatbed)
+rhsgref_cdf_gaz66_flat,GAZ-66 (Flatbed)
+rhsgref_ins_g_gaz66_flat,GAZ-66 (Flatbed)
+rhsgref_ins_gaz66_flat,GAZ-66 (Flatbed)
+rhs_gaz66o_msv,GAZ-66 (Open)
+rhs_gaz66o_vdv,GAZ-66 (Open)
+rhs_gaz66o_vmf,GAZ-66 (Open)
+rhs_gaz66o_vv,GAZ-66 (Open)
+rhsgref_cdf_b_gaz66o,GAZ-66 (Open)
+rhsgref_cdf_gaz66o,GAZ-66 (Open)
+rhsgref_ins_g_gaz66o,GAZ-66 (Open)
+rhsgref_ins_gaz66o,GAZ-66 (Open)
+rhs_gaz66o_flat_msv,GAZ-66 (Open/Flatbed)
+rhs_gaz66o_flat_vdv,GAZ-66 (Open/Flatbed)
+rhs_gaz66o_flat_vmf,GAZ-66 (Open/Flatbed)
+rhs_gaz66o_flat_vv,GAZ-66 (Open/Flatbed)
+rhsgref_cdf_b_gaz66o_flat,GAZ-66 (Open/Flatbed)
+rhsgref_cdf_gaz66o_flat,GAZ-66 (Open/Flatbed)
+rhsgref_ins_g_gaz66o_flat,GAZ-66 (Open/Flatbed)
+rhsgref_ins_gaz66o_flat,GAZ-66 (Open/Flatbed)
+rhs_gaz66_r142_msv,GAZ-66 (R-142N)
+rhs_gaz66_r142_vdv,GAZ-66 (R-142N)
+rhs_gaz66_r142_vmf,GAZ-66 (R-142N)
+rhs_gaz66_r142_vv,GAZ-66 (R-142N)
+rhsgref_cdf_b_gaz66_r142,GAZ-66 (R-142N)
+rhsgref_cdf_gaz66_r142,GAZ-66 (R-142N)
+rhsgref_ins_g_gaz66_r142,GAZ-66 (R-142N)
+rhsgref_ins_gaz66_r142,GAZ-66 (R-142N)
+rhs_gaz66_zu23_msv,GAZ-66 (ZU-23-2)
+rhs_gaz66_zu23_vdv,GAZ-66 (ZU-23-2)
+rhs_gaz66_zu23_vmf,GAZ-66 (ZU-23-2)
+rhs_gaz66_zu23_vv,GAZ-66 (ZU-23-2)
+rhsgref_cdf_b_gaz66_zu23,GAZ-66 (ZU-23-2)
+rhsgref_cdf_gaz66_zu23,GAZ-66 (ZU-23-2)
+rhsgref_ins_g_gaz66_zu23,GAZ-66 (ZU-23-2)
+rhsgref_ins_gaz66_zu23,GAZ-66 (ZU-23-2)
+rhs_gaz66_ap2_msv,GAZ-66-AP-2
+rhs_gaz66_ap2_vdv,GAZ-66-AP-2
+rhs_gaz66_ap2_vmf,GAZ-66-AP-2
+rhs_gaz66_ap2_vv,GAZ-66-AP-2
+rhsgref_cdf_b_gaz66_ap2,GAZ-66-AP-2
+rhsgref_cdf_gaz66_ap2,GAZ-66-AP-2
+rhsgref_ins_g_gaz66_ap2,GAZ-66-AP-2
+rhsgref_ins_gaz66_ap2,GAZ-66-AP-2
+rhs_gaz66_repair_msv,GAZ-66-ESB-8IM
+rhs_gaz66_repair_vdv,GAZ-66-ESB-8IM
+rhs_gaz66_repair_vmf,GAZ-66-ESB-8IM
+rhs_gaz66_repair_vv,GAZ-66-ESB-8IM
+rhsgref_cdf_b_gaz66_repair,GAZ-66-ESB-8IM
+rhsgref_cdf_gaz66_repair,GAZ-66-ESB-8IM
+rhsgref_ins_g_gaz66_repair,GAZ-66-ESB-8IM
+rhsgref_ins_gaz66_repair,GAZ-66-ESB-8IM
+RHS_Ka52_vvs,Ka-52
+RHS_Ka52_vvsc,Ka-52
+rhs_ka60_c,Ka-60
+rhs_ka60_grey,Ka-60
+rhs_kamaz5350_msv,KamAZ-5350
+rhs_kamaz5350_vdv,KamAZ-5350
+rhs_kamaz5350_vmf,KamAZ-5350
+rhs_kamaz5350_vv,KamAZ-5350
+rhs_kamaz5350_flatbed_cover_msv,KamAZ-5350 (Flatbed)
+rhs_kamaz5350_flatbed_cover_vdv,KamAZ-5350 (Flatbed)
+rhs_kamaz5350_flatbed_cover_vmf,KamAZ-5350 (Flatbed)
+rhs_kamaz5350_flatbed_cover_vv,KamAZ-5350 (Flatbed)
+rhs_kamaz5350_open_msv,KamAZ-5350 (Open)
+rhs_kamaz5350_open_vdv,KamAZ-5350 (Open)
+rhs_kamaz5350_open_vmf,KamAZ-5350 (Open)
+rhs_kamaz5350_open_vv,KamAZ-5350 (Open)
+rhs_kamaz5350_flatbed_msv,KamAZ-5350 (Open/Flatbed)
+rhs_kamaz5350_flatbed_vdv,KamAZ-5350 (Open/Flatbed)
+rhs_kamaz5350_flatbed_vmf,KamAZ-5350 (Open/Flatbed)
+rhs_kamaz5350_flatbed_vv,KamAZ-5350 (Open/Flatbed)
+rhs_typhoon_vdv,KAMAZ-63968
+rhs_l159_CDF,L-159 ALCA
+rhs_l159_cdf_b_CDF,L-159 ALCA
+rhs_l39_cdf,L-39C Albatros
+rhs_l39_cdf_b_cdf,L-39C Albatros
+rhsgref_hidf_m1025_m2,M1025A1 (M2)
+rhsgref_hidf_m1025_mk19,M1025A1 (Mk19)
+rhsgref_hidf_m1025,M1025A1 (Unarmed)
+rhsusf_m1025_d_m2,M1025A2 (M2)
+rhsusf_m1025_w_m2,M1025A2 (M2)
+rhsusf_m1025_d_s_m2,M1025A2 (M2/Snorkel)
+rhsusf_m1025_w_s_m2,M1025A2 (M2/Snorkel)
+rhsusf_m1025_d_Mk19,M1025A2 (Mk19)
+rhsusf_m1025_w_mk19,M1025A2 (Mk19)
+rhsusf_m1025_d_s_Mk19,M1025A2 (Mk19/Snorkel)
+rhsusf_m1025_w_s_Mk19,M1025A2 (Mk19/Snorkel)
+rhsusf_m1025_d,M1025A2 (Unarmed)
+rhsusf_m1025_w,M1025A2 (Unarmed)
+rhsusf_m1025_d_s,M1025A2 (Unarmed/Snorkel)
+rhsusf_m1025_w_s,M1025A2 (Unarmed/Snorkel)
+rhsusf_m1043_d_m2,M1043A2 (M2)
+rhsusf_m1043_w_m2,M1043A2 (M2)
+rhsusf_m1043_d_s_m2,M1043A2 (M2/Snorkel)
+rhsusf_m1043_w_s_m2,M1043A2 (M2/Snorkel)
+rhsusf_m1043_d_mk19,M1043A2 (Mk19)
+rhsusf_m1043_w_mk19,M1043A2 (Mk19)
+rhsusf_m1043_d_s_mk19,M1043A2 (Mk19/Snorkel)
+rhsusf_m1043_w_s_mk19,M1043A2 (Mk19/Snorkel)
+rhsusf_m1043_d,M1043A2 (Unarmed)
+rhsusf_m1043_w,M1043A2 (Unarmed)
+rhsusf_m1043_d_s,M1043A2 (Unarmed/Snorkel)
+rhsusf_m1043_w_s,M1043A2 (Unarmed/Snorkel)
+rhsusf_m1045_d,M1045A2 (M220A2)
+rhsusf_m1045_w,M1045A2 (M220A2)
+rhsusf_m1045_d_s,M1045A2 (M220A2/Snorkel)
+rhsusf_m1045_w_s,M1045A2 (M220A2/Snorkel)
+rhsusf_M1078A1P2_D_fmtv_usarmy,M1078A1P2
+rhsusf_M1078A1P2_WD_fmtv_usarmy,M1078A1P2
+rhsusf_M1078A1P2_D_flatbed_fmtv_usarmy,M1078A1P2 (Flatbed)
+rhsusf_M1078A1P2_WD_flatbed_fmtv_usarmy,M1078A1P2 (Flatbed)
+rhsusf_M1078A1P2_B_D_fmtv_usarmy,M1078A1P2-B
+rhsusf_M1078A1P2_B_WD_fmtv_usarmy,M1078A1P2-B
+rhsusf_M1078A1P2_B_D_flatbed_fmtv_usarmy,M1078A1P2-B (Flatbed)
+rhsusf_M1078A1P2_B_WD_flatbed_fmtv_usarmy,M1078A1P2-B (Flatbed)
+rhsusf_M1078A1P2_B_M2_D_fmtv_usarmy,M1078A1P2-B (M2)
+rhsusf_M1078A1P2_B_M2_WD_fmtv_usarmy,M1078A1P2-B (M2)
+rhsusf_M1078A1P2_B_M2_D_flatbed_fmtv_usarmy,M1078A1P2-B (M2/Flatbed)
+rhsusf_M1078A1P2_B_M2_WD_flatbed_fmtv_usarmy,M1078A1P2-B (M2/Flatbed)
+rhsusf_M1078A1P2_B_D_CP_fmtv_usarmy,M1078A1P2-B CP Box
+rhsusf_M1078A1P2_B_WD_CP_fmtv_usarmy,M1078A1P2-B CP Box
+rhsusf_M1078A1R_SOV_M2_D_fmtv_socom,M1078A1R SOV (M2)
+rhsusf_M1083A1P2_D_fmtv_usarmy,M1083A1P2
+rhsusf_M1083A1P2_WD_fmtv_usarmy,M1083A1P2
+rhsusf_M1083A1P2_D_flatbed_fmtv_usarmy,M1083A1P2 (Flatbed)
+rhsusf_M1083A1P2_WD_flatbed_fmtv_usarmy,M1083A1P2 (Flatbed)
+rhsusf_M1083A1P2_B_D_fmtv_usarmy,M1083A1P2-B
+rhsusf_M1083A1P2_B_WD_fmtv_usarmy,M1083A1P2-B
+rhsusf_M1083A1P2_B_D_flatbed_fmtv_usarmy,M1083A1P2-B (Flatbed)
+rhsusf_M1083A1P2_B_WD_flatbed_fmtv_usarmy,M1083A1P2-B (Flatbed)
+rhsusf_M1083A1P2_B_M2_D_fmtv_usarmy,M1083A1P2-B (M2)
+rhsusf_M1083A1P2_B_M2_WD_fmtv_usarmy,M1083A1P2-B (M2)
+rhsusf_M1083A1P2_B_M2_D_flatbed_fmtv_usarmy,M1083A1P2-B (M2/Flatbed)
+rhsusf_M1083A1P2_B_M2_WD_flatbed_fmtv_usarmy,M1083A1P2-B (M2/Flatbed)
+rhsusf_M1084A1P2_D_fmtv_usarmy,M1084A1P2
+rhsusf_M1084A1P2_WD_fmtv_usarmy,M1084A1P2
+rhsusf_M1084A1P2_B_D_fmtv_usarmy,M1084A1P2-B
+rhsusf_M1084A1P2_B_WD_fmtv_usarmy,M1084A1P2-B
+rhsusf_M1084A1P2_B_M2_D_fmtv_usarmy,M1084A1P2-B (M2)
+rhsusf_M1084A1P2_B_M2_WD_fmtv_usarmy,M1084A1P2-B (M2)
+rhsusf_M1084A1R_SOV_M2_D_fmtv_socom,M1084A1R SOV (M2)
+rhsusf_M1085A1P2_B_D_Medical_fmtv_usarmy,M1085A1P2B (CBPS)
+rhsusf_M1085A1P2_B_WD_Medical_fmtv_usarmy,M1085A1P2B (CBPS)
+rhsusf_m998_d_2dr_fulltop,M1097A2 (2D)
+rhsusf_m998_w_2dr_fulltop,M1097A2 (2D)
+rhsusf_m998_d_2dr_halftop,M1097A2 (2D/Half)
+rhsusf_m998_w_2dr_halftop,M1097A2 (2D/Half)
+rhsusf_m998_d_2dr,M1097A2 (2D/Open)
+rhsusf_m998_w_2dr,M1097A2 (2D/Open)
+rhsusf_m998_d_4dr_fulltop,M1097A2 (4D)
+rhsusf_m998_w_4dr_fulltop,M1097A2 (4D)
+rhsusf_m998_d_4dr_halftop,M1097A2 (4D/Half)
+rhsusf_m998_w_4dr_halftop,M1097A2 (4D/Half)
+rhsusf_m998_d_4dr,M1097A2 (4D/Open)
+rhsusf_m998_w_4dr,M1097A2 (4D/Open)
+rhsusf_m109_usarmy,M109A6
+rhsusf_m109d_usarmy,M109A6
+rhsusf_M1117_D,M1117 ASV
+rhsusf_M1117_W,M1117 ASV
+rhsusf_M1117_O,M1117 ASV (OD)
+rhsgref_un_m1117,M1117 ASV (UN)
+rhsusf_m998_d_s_2dr_halftop,M1123 (2D/Half/Snorkel)
+rhsusf_m998_w_s_2dr_halftop,M1123 (2D/Half/Snorkel)
+rhsusf_m998_d_s_2dr,M1123 (2D/Open/Snorkel)
+rhsusf_m998_w_s_2dr,M1123 (2D/Open/Snorkel)
+rhsusf_m998_d_s_2dr_fulltop,M1123 (2D/Snorkel)
+rhsusf_m998_w_s_2dr_fulltop,M1123 (2D/Snorkel)
+rhsusf_m998_d_s_4dr_halftop,M1123 (4D/Half/Snorkel)
+rhsusf_m998_w_s_4dr_halftop,M1123 (4D/Half/Snorkel)
+rhsusf_m998_d_s_4dr,M1123 (4D/Open/Snorkel)
+rhsusf_m998_w_s_4dr,M1123 (4D/Open/Snorkel)
+rhsusf_m998_d_s_4dr_fulltop,M1123 (4D/Snorkel)
+rhsusf_m998_w_s_4dr_fulltop,M1123 (4D/Snorkel)
+rhsusf_m113_usarmy_supply,M113A3 (Ammo)
+rhsusf_m113d_usarmy_supply,M113A3 (Ammo)
+rhsgref_hidf_m113a3_m2,M113A3 (M2)
+rhsusf_m113_usarmy,M113A3 (M2)
+rhsusf_m113d_usarmy,M113A3 (M2)
+rhsusf_m113_usarmy_M2_90,M113A3 (M2/Early)
+rhsusf_m113_usarmy_M240,M113A3 (M240)
+rhsusf_m113d_usarmy_M240,M113A3 (M240)
+rhsusf_m113_usarmy_medical,M113A3 (MEV)
+rhsusf_m113d_usarmy_medical,M113A3 (MEV)
+rhsusf_m113_usarmy_MK19,M113A3 (Mk19)
+rhsusf_m113d_usarmy_MK19,M113A3 (Mk19)
+rhsgref_hidf_m113a3_mk19,M113A3 (Mk19/Early)
+rhsusf_m113_usarmy_MK19_90,M113A3 (Mk19/Early)
+rhsgref_hidf_m113a3_unarmed,M113A3 (Unarmed)
+rhsusf_m113_usarmy_unarmed,M113A3 (Unarmed)
+rhsusf_m113d_usarmy_unarmed,M113A3 (Unarmed)
+rhssaf_m1025_olive_m2,M1151Â (M2)
+rhssaf_m1025_olive,M1151Â (Unarmed)
+rhssaf_army_o_m998_olive_2dr_fulltop,M1152 ECVÂ (Fulltop)
+rhssaf_m998_olive_2dr_fulltop,M1152 ECVÂ (Fulltop)
+rhssaf_army_o_m998_olive_2dr_halftop,M1152 ECVÂ (Halftop)
+rhssaf_m998_olive_2dr_halftop,M1152 ECVÂ (Halftop)
+RHS_M119_D,M119A2
+RHS_M119_WD,M119A2
+rhsusf_M1220_usarmy_d,M1220
+rhsusf_M1220_usarmy_wd,M1220
+rhsusf_M1220_M153_M2_usarmy_d,M1220 (M2 CROWS)
+rhsusf_M1220_M153_M2_usarmy_wd,M1220 (M2 CROWS)
+rhsusf_M1220_M2_usarmy_d,M1220 (M2)
+rhsusf_M1220_M2_usarmy_wd,M1220 (M2)
+rhsusf_M1220_M153_MK19_usarmy_d,M1220 (Mk19 CROWS)
+rhsusf_M1220_M153_MK19_usarmy_wd,M1220 (Mk19 CROWS)
+rhsusf_M1220_MK19_usarmy_d,M1220 (Mk19)
+rhsusf_M1220_MK19_usarmy_wd,M1220 (Mk19)
+rhsusf_M1230_M2_usarmy_d,M1230 (M2)
+rhsusf_M1230_M2_usarmy_wd,M1230 (M2)
+rhsusf_M1230_MK19_usarmy_d,M1230 (Mk19)
+rhsusf_M1230_MK19_usarmy_wd,M1230 (Mk19)
+rhsusf_M1230a1_usarmy_d,M1230A1 (MEDEVAC)
+rhsusf_M1230a1_usarmy_wd,M1230A1 (MEDEVAC)
+rhsusf_M1232_usarmy_d,M1232
+rhsusf_M1232_usarmy_wd,M1232
+rhsusf_M1232_M2_usarmy_d,M1232 (M2)
+rhsusf_M1232_M2_usarmy_wd,M1232 (M2)
+rhsusf_M1232_MC_M2_usmc_d,M1232 (M2)
+rhsusf_M1232_MC_M2_usmc_wd,M1232 (M2)
+rhsusf_M1232_MC_MK19_usmc_d,M1232 (Mk19)
+rhsusf_M1232_MC_MK19_usmc_wd,M1232 (Mk19)
+rhsusf_M1232_MK19_usarmy_d,M1232 (Mk19)
+rhsusf_M1232_MK19_usarmy_wd,M1232 (Mk19)
+rhsusf_M1237_M2_usarmy_d,M1237 (M2)
+rhsusf_M1237_M2_usarmy_wd,M1237 (M2)
+rhsusf_M1237_MK19_usarmy_d,M1237 (Mk19)
+rhsusf_M1237_MK19_usarmy_wd,M1237 (Mk19)
+rhsusf_M1238A1_socom_d,M1238A1 ASV
+rhsusf_M1238A1_M2_socom_d,M1238A1 ASV (M2 CROWS)
+rhsusf_M1238A1_Mk19_socom_d,M1238A1 ASV (MK19 CROWS)
+rhsusf_M1239_socom_d,M1239 AUV
+rhsusf_M1239_M2_socom_d,M1239 AUV (M2 CROWS)
+rhsusf_M1239_MK19_socom_d,M1239 AUV (Mk19 CROWS)
+rhsusf_M1239_M2_Deploy_socom_d,M1239 AUV Deploy (M2 CROWS)
+rhsusf_M1239_MK19_Deploy_socom_d,M1239 AUV Deploy (Mk19 CROWS)
+rhsusf_m1240a1_usarmy_d,M1240
+rhsusf_m1240a1_usarmy_wd,M1240
+rhsusf_m1240a1_usmc_d,M1240
+rhsusf_m1240a1_usmc_wd,M1240
+rhsusf_m1240a1_m2crows_usarmy_d,M1240 (M2 CROWS)
+rhsusf_m1240a1_m2crows_usarmy_wd,M1240 (M2 CROWS)
+rhsusf_m1240a1_m2crows_usmc_d,M1240 (M2 CROWS)
+rhsusf_m1240a1_m2crows_usmc_wd,M1240 (M2 CROWS)
+rhsusf_m1240a1_m2_usarmy_d,M1240 (M2)
+rhsusf_m1240a1_m2_usarmy_wd,M1240 (M2)
+rhsusf_m1240a1_m2_usmc_d,M1240 (M2)
+rhsusf_m1240a1_m2_usmc_wd,M1240 (M2)
+rhsusf_m1240a1_m240_usarmy_d,M1240 (M240)
+rhsusf_m1240a1_m240_usarmy_wd,M1240 (M240)
+rhsusf_m1240a1_m240_usmc_d,M1240 (M240)
+rhsusf_m1240a1_m240_usmc_wd,M1240 (M240)
+rhsusf_m1240a1_mk19crows_usarmy_d,M1240 (Mk 19 CROWS)
+rhsusf_m1240a1_mk19crows_usarmy_wd,M1240 (Mk 19 CROWS)
+rhsusf_m1240a1_mk19crows_usmc_d,M1240 (Mk 19 CROWS)
+rhsusf_m1240a1_mk19crows_usmc_wd,M1240 (Mk 19 CROWS)
+rhsusf_m1240a1_mk19_usarmy_d,M1240 (Mk 19)
+rhsusf_m1240a1_mk19_usarmy_wd,M1240 (Mk 19)
+rhsusf_m1240a1_mk19_usmc_d,M1240 (Mk 19)
+rhsusf_m1240a1_mk19_usmc_wd,M1240 (Mk 19)
+rhsusf_m1245_m2crows_socom_d,M1245 (M2 CROWS)
+rhsusf_m1245_mk19crows_socom_d,M1245 (Mk 19 CROWS)
+rhsusf_m1245_m2crows_socom_deploy,M1245 Deploy (M2 CROWS)
+rhsusf_m1245_mk19crows_socom_deploy,M1245 Deploy (Mk 19 CROWS)
+rhsusf_M142_usarmy_D,M142 HIMARS
+rhsusf_M142_usarmy_WD,M142 HIMARS
+rhsusf_M142_usmc_WD,M142 HIMARS
+rhsusf_m1a1fep_d,M1A1FEP
+rhsusf_m1a1fep_wd,M1A1FEP
+rhsusf_m1a1fep_od,M1A1FEP (O)
+rhsusf_m1a1hc_wd,M1A1HC
+rhsusf_m1a1aimd_usarmy,M1A1SA
+rhsusf_m1a1aimwd_usarmy,M1A1SA
+rhsusf_m1a1aim_tuski_d,M1A1SA (TUSK I)
+rhsusf_m1a1aim_tuski_wd,M1A1SA (TUSK I)
+rhsusf_m1a2sep1d_usarmy,M1A2SEPv1
+rhsusf_m1a2sep1wd_usarmy,M1A2SEPv1
+rhsusf_m1a2sep1tuskid_usarmy,M1A2SEPv1 (TUSK I)
+rhsusf_m1a2sep1tuskiwd_usarmy,M1A2SEPv1 (TUSK I)
+rhsusf_m1a2sep1tuskiid_usarmy,M1A2SEPv1 (TUSK II)
+rhsusf_m1a2sep1tuskiiwd_usarmy,M1A2SEPv1 (TUSK II)
+rhsgref_cdf_b_reg_M252,M252
+rhsgref_cdf_reg_M252,M252
+RHS_M2A2,M2A2ODS
+RHS_M2A2_wd,M2A2ODS
+RHS_M2A2_BUSKI,M2A2ODS (BUSK I)
+RHS_M2A2_BUSKI_WD,M2A2ODS (BUSK I)
+RHS_M2A3,M2A3
+RHS_M2A3_wd,M2A3
+RHS_M2A3_BUSKI,M2A3 (BUSK I)
+RHS_M2A3_BUSKI_wd,M2A3 (BUSK I)
+RHS_M2A3_BUSKIII,M2A3 (BUSK III)
+RHS_M2A3_BUSKIII_wd,M2A3 (BUSK III)
+rhsgref_hidf_m2_static,M2HB (M3 AA)
+rhsgref_hidf_m2_static_minitripod,M2HB (M3)
+RHS_M6,M6A2
+RHS_M6_wd,M6A2
+rhsusf_m966_d,M966A1 (M220A2)
+rhsusf_m966_w,M966A1 (M220A2)
+rhsusf_M977A4_usarmy_d,M977A4
+rhsusf_M977A4_usarmy_wd,M977A4
+rhsusf_M977A4_AMMO_usarmy_d,M977A4 (Ammo)
+rhsusf_M977A4_AMMO_usarmy_wd,M977A4 (Ammo)
+rhsusf_M977A4_REPAIR_usarmy_d,M977A4 (Repair)
+rhsusf_M977A4_REPAIR_usarmy_wd,M977A4 (Repair)
+rhsusf_M977A4_BKIT_usarmy_d,M977A4-B
+rhsusf_M977A4_BKIT_usarmy_wd,M977A4-B
+rhsusf_M977A4_AMMO_BKIT_usarmy_d,M977A4-B (Ammo)
+rhsusf_M977A4_AMMO_BKIT_usarmy_wd,M977A4-B (Ammo)
+rhsusf_M977A4_BKIT_M2_usarmy_d,M977A4-B (M2)
+rhsusf_M977A4_BKIT_M2_usarmy_wd,M977A4-B (M2)
+rhsusf_M977A4_AMMO_BKIT_M2_usarmy_d,M977A4-B (M2/Ammo)
+rhsusf_M977A4_AMMO_BKIT_M2_usarmy_wd,M977A4-B (M2/Ammo)
+rhsusf_M977A4_REPAIR_BKIT_M2_usarmy_d,M977A4-B (M2/Repair)
+rhsusf_M977A4_REPAIR_BKIT_M2_usarmy_wd,M977A4-B (M2/Repair)
+rhsusf_M977A4_REPAIR_BKIT_usarmy_d,M977A4-B (Repair)
+rhsusf_M977A4_REPAIR_BKIT_usarmy_wd,M977A4-B (Repair)
+rhsusf_M978A4_usarmy_d,M978A4
+rhsusf_M978A4_usarmy_wd,M978A4
+rhsusf_M978A4_BKIT_usarmy_d,M978A4-B
+rhsusf_M978A4_BKIT_usarmy_wd,M978A4-B
+rhsgref_hidf_M998_2dr_fulltop,M998A1 (2D/Covered)
+rhsgref_hidf_M998_2dr_halftop,M998A1 (2D/Half)
+rhsgref_hidf_M998_2dr,M998A1 (2D/Open)
+rhsgref_hidf_M998_4dr_fulltop,M998A1 (4D/Covered)
+rhsgref_hidf_M998_4dr_halftop,M998A1 (4D/Half)
+rhsgref_hidf_m998_4dr,M998A1 (4D/Open)
+RHS_MELB_MH6M,MH-6M Little Bird
+rhsgref_cdf_b_Mi24D,Mi-24D
+rhsgref_cdf_Mi24D,Mi-24D
+rhsgref_cdf_b_Mi24D_Early,Mi-24D (early)
+rhsgref_cdf_Mi24D_early,Mi-24D (early)
+rhsgref_b_mi24g_CAS,Mi-24G
+rhsgref_mi24g_CAS,Mi-24G
+RHS_Mi24P_vdv,Mi-24P
+RHS_Mi24P_vvs,Mi-24P
+RHS_Mi24P_vvsc,Mi-24P
+RHS_Mi24V_vdv,Mi-24V
+RHS_Mi24V_vvs,Mi-24V
+RHS_Mi24V_vvsc,Mi-24V
+rhsgref_cdf_b_Mi35,Mi-24V
+rhsgref_cdf_Mi35,Mi-24V
+rhsgref_un_Mi24V,Mi-24V
+RHS_Mi24Vt_vvs,Mi-24VT
+RHS_Mi24Vt_vvsc,Mi-24VT
+rhs_mi28n_vvs,Mi-28N
+rhs_mi28n_vvsc,Mi-28N
+RHS_Mi8amt_civilian,Mi-8AMT
+RHS_Mi8AMT_vdv,Mi-8AMT
+RHS_Mi8AMT_vvs,Mi-8AMT
+RHS_Mi8AMT_vvsc,Mi-8AMT
+rhsgref_cdf_b_reg_Mi8amt,Mi-8AMT
+rhsgref_cdf_reg_Mi8amt,Mi-8AMT
+rhsgref_ins_g_Mi8amt,Mi-8AMT
+rhsgref_ins_Mi8amt,Mi-8AMT
+rhsgref_un_Mi8amt,Mi-8AMT
+RHS_Mi8AMTSh_vvs,Mi-8AMTSh
+RHS_Mi8AMTSh_vvsc,Mi-8AMTSh
+rhsgref_cdf_b_reg_Mi17Sh,Mi-8AMTSh
+rhsgref_cdf_reg_Mi17Sh,Mi-8AMTSh
+RHS_Mi8mt_vdv,Mi-8MT
+RHS_Mi8mt_vv,Mi-8MT
+RHS_Mi8mt_vvs,Mi-8MT
+RHS_Mi8mt_vvsc,Mi-8MT
+RHS_Mi8mt_Cargo_vdv,Mi-8MT (Cargo)
+RHS_Mi8mt_Cargo_vv,Mi-8MT (Cargo)
+RHS_Mi8mt_Cargo_vvs,Mi-8MT (Cargo)
+RHS_Mi8mt_Cargo_vvsc,Mi-8MT (Cargo)
+RHS_Mi8MTV3_vdv,Mi-8MTV-3
+RHS_Mi8MTV3_vvs,Mi-8MTV-3
+RHS_Mi8MTV3_vvsc,Mi-8MTV-3
+RHS_Mi8mtv3_Cargo_vdv,Mi-8MTV-3 (Cargo)
+RHS_Mi8mtv3_Cargo_vvs,Mi-8MTV-3 (Cargo)
+RHS_Mi8mtv3_Cargo_vvsc,Mi-8MTV-3 (Cargo)
+RHS_Mi8MTV3_heavy_vdv,Mi-8MTV-3 (Heavy)
+RHS_Mi8MTV3_heavy_vvs,Mi-8MTV-3 (Heavy)
+RHS_Mi8MTV3_heavy_vvsc,Mi-8MTV-3 (Heavy)
+RHS_Mi8t_civilian,Mi-8T
+RHS_Mi8T_vdv,Mi-8T
+RHS_Mi8t_vv,Mi-8T
+RHS_Mi8T_vvs,Mi-8T
+RHS_Mi8T_vvsc,Mi-8T
+rhs_mig29s_vmf,MiG-29S
+rhs_mig29s_vvs,MiG-29S
+rhs_mig29s_vvsc,MiG-29S
+rhsgref_cdf_b_mig29s,MiG-29S
+rhsgref_cdf_mig29s,MiG-29S
+rhs_mig29sm_vmf,MiG-29SM
+rhs_mig29sm_vvs,MiG-29SM
+rhs_mig29sm_vvsc,MiG-29SM
+rhsgref_hidf_mk19_static,Mk. 19 (M3)
+rhsusf_mkvsoc,Mk.V SOC
+rhsusf_mrzr4_d,MRZR 4
+rhsgred_hidf_cessna_o3a,O-3A
+rhsgref_tla_offroad,Offroad
+rhsgref_tla_offroad_at,Offroad (AT)
+rhsgref_tla_offroad_armed,Offroad (HMG)
+RHS_MELB_H6M,OH-6M
+rhsgref_civ_canoe,Poseidon II
+rhsgref_hidf_canoe,Poseidon II
+rhssaf_army_o_pts,PTS-M
+rhssaf_army_pts,PTS-M
+rhsgref_hidf_rhib,RHIB
+RHS_Su25SM_vvs,Su-25
+RHS_Su25SM_vvsc,Su-25
+rhsgref_cdf_b_su25,Su-25
+rhsgref_cdf_su25,Su-25
+rhs_t14_tv,T-14
+RHS_T50_vvs_generic,T-50 obr. 2011
+RHS_T50_vvs_051,T-50 obr. 2011 (051)
+RHS_T50_vvs_052,T-50 obr. 2011 (052)
+RHS_T50_vvs_053,T-50 obr. 2011 (053)
+RHS_T50_vvs_generic_ext,T-50 obr. 2011 (external pylons)
+RHS_T50_vvs_054,T-50 obr. 2012 (054)
+RHS_T50_vvs_blueonblue,T-50 obr. 2013 (055)
+rhs_t72ba_tv,T-72B (obr. 1984g.)
+rhsgref_cdf_b_t72ba_tv,T-72B (obr. 1984g.)
+rhsgref_cdf_t72ba_tv,T-72B (obr. 1984g.)
+rhsgref_ins_g_t72ba,T-72B (obr. 1984g.)
+rhsgref_ins_t72ba,T-72B (obr. 1984g.)
+rhs_t72bb_tv,T-72B (obr. 1985g.)
+rhsgref_cdf_b_t72bb_tv,T-72B (obr. 1985g.)
+rhsgref_cdf_t72bb_tv,T-72B (obr. 1985g.)
+rhsgref_ins_g_t72bb,T-72B (obr. 1985g.)
+rhsgref_ins_t72bb,T-72B (obr. 1985g.)
+rhs_t72bc_tv,T-72B (obr. 1989g.)
+rhsgref_ins_g_t72bc,T-72B (obr. 1989g.)
+rhsgref_ins_t72bc,T-72B (obr. 1989g.)
+rhs_t72bd_tv,T-72B3 (obr. 2012g.)
+rhs_t72be_tv,T-72B3 (obr. 2016g.)
+rhssaf_army_o_t72s,T-72MS
+rhssaf_army_t72s,T-72MS
+rhs_t80,T-80
+rhs_t80a,T-80A
+rhs_t80b,T-80B
+rhsgref_cdf_b_t80b_tv,T-80B
+rhsgref_cdf_t80b_tv,T-80B
+rhs_t80bk,T-80BK
+rhs_t80bv,T-80BV
+rhsgref_cdf_b_t80bv_tv,T-80BV
+rhsgref_cdf_t80bv_tv,T-80BV
+rhs_t80bvk,T-80BVK
+rhs_t80u,T-80U
+rhs_t80u45m,T-80U (45M)
+rhs_t80ue1,T-80UE-1
+rhs_t80uk,T-80UK
+rhs_t80um,T-80UM
+rhs_t90_tv,T-90 (obr. 1992g.)
+rhs_t90a_tv,T-90A (obr. 2006g.)
+rhs_t90am_tv,T-90AM (obyekt 188AM)
+rhs_t90saa_tv,T-90SA (obr. 2004g.)
+rhs_t90sab_tv,T-90SA (obr. 2016g.)
+rhs_t90sm_tv,T-90SM (obyekt 188SM)
+rhsgref_nat_van,Truck
+RHS_TU95MS_vvs_old,Tu-95MS6 Bear
+RHS_TU95MS_vvs_chelyabinsk,Tu-95MS6 Bear 'Chelyabinsk'
+RHS_TU95MS_vvs_dubna,Tu-95MS6 Bear 'Dubna'
+RHS_TU95MS_vvs_irkutsk,Tu-95MS6 Bear 'Irkutsk'
+RHS_TU95MS_vvs_tambov,Tu-95MS6 Bear 'Tambov'
+RHS_UAZ_MSV_01,UAZ-3151
+rhs_uaz_vdv,UAZ-3151
+rhs_uaz_vmf,UAZ-3151
+rhs_uaz_vv,UAZ-3151
+rhsgref_cdf_b_reg_uaz,UAZ-3151
+rhsgref_cdf_reg_uaz,UAZ-3151
+rhsgref_ins_g_uaz,UAZ-3151
+rhsgref_ins_uaz,UAZ-3151
+rhsgref_nat_uaz,UAZ-3151
+rhsgref_un_uaz,UAZ-3151
+rhssaf_un_uaz,UAZ-3151
+rhsgref_cdf_b_reg_uaz_ags,UAZ-3151 (AGS-30)
+rhsgref_cdf_reg_uaz_ags,UAZ-3151 (AGS-30)
+rhsgref_ins_g_uaz_ags,UAZ-3151 (AGS-30)
+rhsgref_ins_uaz_ags,UAZ-3151 (AGS-30)
+rhsgref_nat_uaz_ags,UAZ-3151 (AGS-30)
+rhsgref_cdf_b_reg_uaz_dshkm,UAZ-3151 (DShKM)
+rhsgref_cdf_reg_uaz_dshkm,UAZ-3151 (DShKM)
+rhsgref_ins_g_uaz_dshkm_chdkz,UAZ-3151 (DShKM)
+rhsgref_ins_uaz_dshkm,UAZ-3151 (DShKM)
+rhsgref_nat_uaz_dshkm,UAZ-3151 (DShKM)
+rhs_uaz_open_MSV_01,UAZ-3151 (Open)
+rhs_uaz_open_vdv,UAZ-3151 (Open)
+rhs_uaz_open_vmf,UAZ-3151 (Open)
+rhs_uaz_open_vv,UAZ-3151 (Open)
+rhsgref_cdf_b_reg_uaz_open,UAZ-3151 (Open)
+rhsgref_cdf_reg_uaz_open,UAZ-3151 (Open)
+rhsgref_ins_g_uaz_open,UAZ-3151 (Open)
+rhsgref_ins_uaz_open,UAZ-3151 (Open)
+rhsgref_nat_uaz_open,UAZ-3151 (Open)
+rhssaf_un_uaz_open,UAZ-3151 (Open)
+rhsgref_cdf_b_reg_uaz_spg9,UAZ-3151 (SPG-9)
+rhsgref_cdf_reg_uaz_spg9,UAZ-3151 (SPG-9)
+rhsgref_ins_g_uaz_spg9,UAZ-3151 (SPG-9)
+rhsgref_ins_uaz_spg9,UAZ-3151 (SPG-9)
+rhsgref_nat_uaz_spg9,UAZ-3151 (SPG-9)
+rhs_uh1h_hidf,UH-1H
+rhs_uh1h_idap,UH-1H
+rhs_uh1h_un,UH-1H
+rhs_uh1h_hidf_gunship,UH-1H Gunship
+rhs_uh1h_hidf_unarmed,UH-1H Unarmed
+RHS_UH1Y_FFAR,UH-1Y
+RHS_UH1Y_FFAR_d,UH-1Y
+RHS_UH1Y,UH-1Y (MG)
+RHS_UH1Y_d,UH-1Y (MG)
+RHS_UH1Y_UNARMED,UH-1Y (Unarmed)
+RHS_UH1Y_UNARMED_d,UH-1Y (Unarmed)
+RHS_UH60M,UH-60M
+RHS_UH60M_d,UH-60M
+RHS_UH60M_ESSS,UH-60M (ESSS)
+RHS_UH60M_ESSS_d,UH-60M (ESSS)
+RHS_UH60M_ESSS2,UH-60M (EWS)
+RHS_UH60M_ESSS2_d,UH-60M (EWS)
+RHS_UH60M2,UH-60M (Unarmed)
+RHS_UH60M2_d,UH-60M (Unarmed)
+RHS_UH60M_MEV2,UH-60M MEV
+RHS_UH60M_MEV2_d,UH-60M MEV
+RHS_UH60M_MEV,UH-60M MEV (ESSS)
+RHS_UH60M_MEV_d,UH-60M MEV (ESSS)
+RHS_Ural_MSV_01,Ural-4320
+RHS_Ural_VDV_01,Ural-4320
+RHS_Ural_VMF_01,Ural-4320
+RHS_Ural_VV_01,Ural-4320
+rhsgref_cdf_b_ural,Ural-4320
+rhsgref_cdf_ural,Ural-4320
+rhsgref_ins_g_ural,Ural-4320
+rhsgref_ins_ural,Ural-4320
+rhsgref_nat_ural,Ural-4320
+rhsgref_un_ural,Ural-4320
+RHS_Ural_Civ_01,Ural-4320 (Blue)
+RHS_Ural_Open_Civ_01,Ural-4320 (Blue/Open)
+RHS_Ural_Flat_MSV_01,Ural-4320 (Flatbed)
+RHS_Ural_Flat_VDV_01,Ural-4320 (Flatbed)
+RHS_Ural_Flat_VMF_01,Ural-4320 (Flatbed)
+RHS_Ural_Flat_VV_01,Ural-4320 (Flatbed)
+RHS_Ural_Fuel_MSV_01,Ural-4320 (Fuel)
+RHS_Ural_Fuel_VDV_01,Ural-4320 (Fuel)
+RHS_Ural_Fuel_VMF_01,Ural-4320 (Fuel)
+RHS_Ural_Fuel_VV_01,Ural-4320 (Fuel)
+rhsgref_cdf_b_ural_fuel,Ural-4320 (Fuel)
+rhsgref_cdf_ural_fuel,Ural-4320 (Fuel)
+RHS_Ural_Open_MSV_01,Ural-4320 (Open)
+RHS_Ural_Open_VDV_01,Ural-4320 (Open)
+RHS_Ural_Open_VMF_01,Ural-4320 (Open)
+RHS_Ural_Open_VV_01,Ural-4320 (Open)
+rhsgref_cdf_b_ural_open,Ural-4320 (Open)
+rhsgref_cdf_ural_open,Ural-4320 (Open)
+rhsgref_ins_g_ural_open,Ural-4320 (Open)
+rhsgref_ins_ural_open,Ural-4320 (Open)
+rhsgref_nat_ural_open,Ural-4320 (Open)
+RHS_Ural_Open_Flat_MSV_01,Ural-4320 (Open/Flatbed)
+RHS_Ural_Open_Flat_VDV_01,Ural-4320 (Open/Flatbed)
+RHS_Ural_Open_Flat_VMF_01,Ural-4320 (Open/Flatbed)
+RHS_Ural_Open_Flat_VV_01,Ural-4320 (Open/Flatbed)
+RHS_Ural_Repair_MSV_01,Ural-4320 (Repair)
+RHS_Ural_Repair_VDV_01,Ural-4320 (Repair)
+RHS_Ural_Repair_VMF_01,Ural-4320 (Repair)
+RHS_Ural_Repair_VV_01,Ural-4320 (Repair)
+rhsgref_cdf_b_ural_repair,Ural-4320 (Repair)
+rhsgref_cdf_ural_repair,Ural-4320 (Repair)
+rhsgref_ins_g_ural_repair,Ural-4320 (Repair)
+rhsgref_ins_ural_repair,Ural-4320 (Repair)
+RHS_Ural_Civ_03,Ural-4320 (Worker)
+rhsgref_ins_g_ural_work,Ural-4320 (Worker)
+rhsgref_ins_ural_work,Ural-4320 (Worker)
+rhsgref_nat_ural_work,Ural-4320 (Worker)
+RHS_Ural_Open_Civ_03,Ural-4320 (Worker/Open)
+rhsgref_ins_g_ural_work_open,Ural-4320 (Worker/Open)
+rhsgref_ins_ural_work_open,Ural-4320 (Worker/Open)
+rhsgref_nat_ural_work_open,Ural-4320 (Worker/Open)
+RHS_Ural_Civ_02,Ural-4320 (Yellow)
+RHS_Ural_Open_Civ_02,Ural-4320 (Yellow/Open)
+RHS_Ural_Zu23_MSV_01,Ural-4320 (ZU-23-2)
+RHS_Ural_Zu23_VDV_01,Ural-4320 (ZU-23-2)
+RHS_Ural_Zu23_VMF_01,Ural-4320 (ZU-23-2)
+RHS_Ural_Zu23_VV_01,Ural-4320 (ZU-23-2)
+rhsgref_cdf_b_ural_Zu23,Ural-4320 (ZU-23-2)
+rhsgref_cdf_ural_Zu23,Ural-4320 (ZU-23-2)
+rhsgref_ins_g_ural_Zu23,Ural-4320 (ZU-23-2)
+rhsgref_ins_ural_Zu23,Ural-4320 (ZU-23-2)
+rhsgref_nat_ural_Zu23,Ural-4320 (ZU-23-2)
+rhssaf_army_o_ural,UralÂ 375D
+rhssaf_army_ural,UralÂ 375D
+rhssaf_un_ural,UralÂ 375D
+rhssaf_army_o_ural_fuel,UralÂ 375DÂ (Fuel)
+rhssaf_army_ural_fuel,UralÂ 375DÂ (Fuel)
+rhssaf_army_o_ural_open,UralÂ 375DÂ (Open)
+rhssaf_army_ural_open,UralÂ 375DÂ (Open)
+rhsgref_nat_warlord,Warlord
+rhs_zil131_msv,ZiL-131
+rhs_zil131_vdv,ZiL-131
+rhs_zil131_vmf,ZiL-131
+rhs_zil131_vv,ZiL-131
+rhsgref_cdf_b_zil131,ZiL-131
+rhsgref_cdf_zil131,ZiL-131
+rhsgref_ins_g_zil131,ZiL-131
+rhsgref_ins_zil131,ZiL-131
+rhsgref_un_zil131,ZiL-131
+rhs_zil131_flatbed_cover_msv,ZiL-131 (Flatbed)
+rhs_zil131_flatbed_cover_vdv,ZiL-131 (Flatbed)
+rhs_zil131_flatbed_cover_vmf,ZiL-131 (Flatbed)
+rhs_zil131_flatbed_cover_vv,ZiL-131 (Flatbed)
+rhsgref_cdf_b_zil131_flatbed_cover,ZiL-131 (Flatbed)
+rhsgref_cdf_zil131_flatbed_cover,ZiL-131 (Flatbed)
+rhsgref_ins_g_zil131_flatbed_cover,ZiL-131 (Flatbed)
+rhsgref_ins_zil131_flatbed_cover,ZiL-131 (Flatbed)
+rhsgref_un_zil131_flatbed_cover,ZiL-131 (Flatbed)
+rhs_zil131_open_msv,ZiL-131 (Open)
+rhs_zil131_open_vdv,ZiL-131 (Open)
+rhs_zil131_open_vmf,ZiL-131 (Open)
+rhs_zil131_open_vv,ZiL-131 (Open)
+rhsgref_cdf_b_zil131_open,ZiL-131 (Open)
+rhsgref_cdf_zil131_open,ZiL-131 (Open)
+rhsgref_ins_g_zil131_open,ZiL-131 (Open)
+rhsgref_ins_zil131_open,ZiL-131 (Open)
+rhsgref_un_zil131_open,ZiL-131 (Open)
+rhs_zil131_flatbed_msv,ZiL-131 (Open/Flatbed)
+rhs_zil131_flatbed_vdv,ZiL-131 (Open/Flatbed)
+rhs_zil131_flatbed_vmf,ZiL-131 (Open/Flatbed)
+rhs_zil131_flatbed_vv,ZiL-131 (Open/Flatbed)
+rhsgref_cdf_b_zil131_flatbed,ZiL-131 (Open/Flatbed)
+rhsgref_cdf_zil131_flatbed,ZiL-131 (Open/Flatbed)
+rhsgref_ins_g_zil131_flatbed,ZiL-131 (Open/Flatbed)
+rhsgref_ins_zil131_flatbed,ZiL-131 (Open/Flatbed)
+rhsgref_un_zil131_flatbed,ZiL-131 (Open/Flatbed)
+rhs_zsu234_aa,ZSU-23-4V
+rhsgref_cdf_b_zsu234,ZSU-23-4V
+rhsgref_cdf_zsu234,ZSU-23-4V
+rhsgref_ins_g_zsu234,ZSU-23-4V
+rhsgref_ins_zsu234,ZSU-23-4V
+RHS_ZU23_MSV,ZU-23-2
+RHS_ZU23_VDV,ZU-23-2
+RHS_ZU23_VMF,ZU-23-2
+rhsgref_cdf_b_ZU23,ZU-23-2
+RHSgref_cdf_ZU23,ZU-23-2
+rhsgref_ins_g_ZU23,ZU-23-2
+rhsgref_ins_ZU23,ZU-23-2
+rhsgref_nat_ZU23,ZU-23-2
+rhsgref_tla_ZU23,ZU-23-2

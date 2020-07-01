@@ -1,0 +1,2 @@
+call script.py
+PAUSE
