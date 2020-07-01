@@ -16,7 +16,7 @@ def parse_csv(csvinput):
 			lineA = lineArray[1].strip().replace(" ", "_").replace("-", "_").replace("(","_").replace(")","_")
 			_spaces = 46 - len(lineArray[0])
 			_class = "	class " + lineArray[0] + _spaces * " " + "{ quality = " + lineA + "Quality; price = " + lineA + "Price; };"
-			_comment = "  //" + lineArray[1]
+			_comment = "  //NOTE " + lineArray[1]
 
 			lastComment = lineArray[1]
 
