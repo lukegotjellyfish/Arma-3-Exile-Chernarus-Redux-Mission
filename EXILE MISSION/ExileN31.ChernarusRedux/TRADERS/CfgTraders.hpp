@@ -148,19 +148,20 @@
 			"Bikes",
 			"Cars",
 			"ADKCars",
-			"RHS_AFRF_Cars",
-			"RHS_AFRF_Transport",
-			"RHS_AFRF_APCs",
-			"RHS_AFRF_IFVs",
-			"RHS_AFRF_Tanks",
-			"RHS_AFRF_SPAA",
-			"RHS_AFRF_Artillery",
-			"RHS_USAF_Cars",
-			"RHS_USAF_Transport",
-			"RHS_USAF_APCs",
-			"RHS_USAF_IFVs",
-			"RHS_USAF_Tanks",
-			"RHS_USAF_Artillery",
+			"RHS_SOV_RU_Cars",
+			"RHS_SOV_RU_Transport",
+			"RHS_SOV_RU_APCs",
+			"RHS_SOV_RU_IFVs",
+			"RHS_SOV_RU_Tanks",
+			"RHS_SOV_RU_SPAA",
+			"RHS_SOV_RU_Artillery",
+			"RHS_US_Cars",
+			"RHS_US_Transport",
+			"RHS_US_APCs",
+			"RHS_US_IFVs",
+			"RHS_US_Tanks",
+			//"RHS_US_SPAA",
+			"RHS_US_Artillery",
 			"Trucks"
 			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};
@@ -178,6 +179,10 @@
 			"A3Planes",
 			"A3armedChoppers",
 			"A3unarmedChoppers",
+			"RHS_US_Choppers",
+			"RHS_US_Planes",
+			"RHS_SOV_RU_Choppers",
+			"RHS_SOV_RU_Planes",
 			"CChoppers",
 			"CPlanes",
 			"Choppers",
@@ -202,6 +207,8 @@
 		{
 			"A3Boats",
 			"Boats",
+			"RHS_SOV_RU_Boats",
+			"RHS_US_Boats",
 			"RHSBoats"
 			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};

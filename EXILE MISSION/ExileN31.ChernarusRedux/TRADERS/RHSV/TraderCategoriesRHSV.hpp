@@ -1,4 +1,4 @@
-	class RHS_SOV-RU_Cars
+	class RHS_SOV_RU_Cars
 	{
 		name = "RHS SOV-RU Cars";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -68,7 +68,7 @@
 			"rhsgref_nat_uaz_spg9"
 		};
 	};
-	class RHS_SOV-RU_Transport
+	class RHS_SOV_RU_Transport
 	{
 		name = "RHS SOV-RU Transport";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -281,7 +281,7 @@
 			"rhssaf_army_pts"
 		};
 	};
-	class RHS_SOV-RU_APCs
+	class RHS_SOV_RU_APCs
 	{
 		name = "RHS SOV-RU APCs";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -348,7 +348,7 @@
 			"rhs_btr80a_vv"
 		};
 	};
-	class RHS_SOV-RU_IFVs
+	class RHS_SOV_RU_IFVs
 	{
 		name = "RHS SOV-RU IFVs";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -478,7 +478,7 @@
 			"rhs_bmp3mera_msv"
 		};
 	};
-	class RHS_SOV-RU_Tanks
+	class RHS_SOV_RU_Tanks
 	{
 		name = "RHS SOV-RU Tanks";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -546,7 +546,7 @@
 			"rhs_t90sm_tv"
 		};
 	};
-	class RHS_SOV-RU_SPAA
+	class RHS_SOV_RU_SPAA
 	{
 		name = "RHS SOV-RU SPAA";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -570,7 +570,7 @@
 			"rhsgref_tla_ZU23"
 		};
 	};
-	class RHS_SOV-RU_Artillery
+	class RHS_SOV_RU_Artillery
 	{
 		name = "RHS SOV-RU Artillery";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -600,7 +600,7 @@
 			"rhsgref_ins_g_BM21"
 		};
 	};
-	class RHS_SOV-RU_Choppers
+	class RHS_SOV_RU_Choppers
 	{
 		name = "RHS SOV-RU Helicopters";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -676,7 +676,7 @@
 			"RHS_Mi8T_vvsc"
 		};
 	};
-	class RHS_SOV-RU_Planes
+	class RHS_SOV_RU_Planes
 	{
 		name = "RHS SOV-RU Planes";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -723,7 +723,7 @@
 			"rhsgred_hidf_cessna_o3a"
 		};
 	};
-	class RHS_SOV-RU_Boats
+	class RHS_SOV_RU_Boats
 	{
 		name = "RHS SOV-RU Boats";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -739,7 +739,7 @@
 	/////////////////////////////////////////
 	//     USAF VEHICLES N SHIET
 	////////////////////////////////////
-		class RHS_US_Cars
+	class RHS_US_Cars
 	{
 		name = "RHS US Cars";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
