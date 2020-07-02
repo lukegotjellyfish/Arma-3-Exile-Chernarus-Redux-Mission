@@ -183,14 +183,10 @@
 			"RHS_US_Planes",
 			"RHS_SOV_RU_Choppers",
 			"RHS_SOV_RU_Planes",
-			"CChoppers",
-			"CPlanes",
 			"Choppers",
 			"Planes",
 			"JetPlanes",
 			"ADKHelicopters",
-			"RHSChoppers",
-			"RHSPlanes",
 			"A3UAVs"
 			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};
