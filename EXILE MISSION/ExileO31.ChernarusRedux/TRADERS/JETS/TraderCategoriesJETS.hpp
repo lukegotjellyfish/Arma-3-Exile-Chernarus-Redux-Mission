@@ -5,9 +5,9 @@ class JetPlanes
 	items[] =
 	{
 		"I_Plane_Fighter_04_F",
-		"B_Plane_Fighter_01_Stealth_F",
-		"B_Plane_Fighter_01_F",
-		"O_Plane_Fighter_02_F",
-		"O_Plane_Fighter_02_Stealth_F"
+		//"B_Plane_Fighter_01_Stealth_F",
+		//"B_Plane_Fighter_01_F",
+		//"O_Plane_Fighter_02_F",
+		//"O_Plane_Fighter_02_Stealth_F"
 	};
 };
