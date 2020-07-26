@@ -5,8 +5,8 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Planes
 	//////////////////////////////////////////////////////////////////////////////
-	class I_Plane_Fighter_04_F						{ quality = 1; price = 550000; };
-	class B_Plane_Fighter_01_Stealth_F				{ quality = 1; price = 550000; };
-	class B_Plane_Fighter_01_F						{ quality = 1; price = 550000; };
-	class O_Plane_Fighter_02_F						{ quality = 1; price = 550000; };
-	class O_Plane_Fighter_02_Stealth_F				{ quality = 1; price = 550000; };
+	class I_Plane_Fighter_04_F						{ quality = 1; price = 700000; };  //growler
+	//class B_Plane_Fighter_01_Stealth_F				{ quality = 1; price = 800000; };  //wasp
+	//class B_Plane_Fighter_01_F						{ quality = 1; price = 700000; };  //wasp
+	//class O_Plane_Fighter_02_F						{ quality = 1; price = 700000; };  //shitkra
+	//class O_Plane_Fighter_02_Stealth_F				{ quality = 1; price = 800000; };  //shitkra
